@@ -1,30 +1,39 @@
 ---
-title: "Character Map & Analisis Komunikasi"
-subtitle: "Laporan Evaluasi Diri dan Dinamika Komunikasi Interpersonal"
-author: "Nama Mahasiswa"
-date: last-modified
-format:
-  html:
-    toc: true
-    toc-depth: 3
-    number-sections: true
-    theme: cosmo
-    smooth-scroll: true
-  pdf:
-    toc: true
-    number-sections: true
-    colorlinks: true
-lang: id
+title: "Character Map"
+week: 1
+status: "Siap dinilai"
+self_score: "17 / 20"
+assessor_score: "—"
+description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
+categories: [Fondasi, Person]
 ---
 
-::: {.callout-note}
-## Informasi Dokumen
-Dokumen ini disusun sebagai bentuk pemetaan karakter (*Character Map*), analisis episode komunikasi nyata, dan refleksi penggunaan AI dalam proses pengembangan kapasitas komunikasi pribadi di 5 domain kehidupan.
+## Kompetensi target
+
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+
+## Evidence wajib
+
+- Lima character dari sedikitnya tiga domain kehidupan.
+- Objective, responsibility, repertoire, dan risiko tiap character.
+- Satu contoh perubahan language ketika character berubah.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-# Character Map
+## Konteks performance
 
-## Pemetaan Lima Character di Minimal Tiga Domain Kehidupan
+- **Tanggal dan setting:** Diskusi kelompok tugas mata kuliah dan koordinasi divisi kepanitiaan kampus.
+- **Persons dan relationship:** Penulis (*Pragmatic Executor*) bersama 3–4 rekan kelompok tugas yang memiliki variasi tingkat keaktifan dan gaya kerja.
+- **Objective dan initial state:**
+  - *Initial state:* Diskusi kelompok berjalan lambat, anggota ragu mengambil keputusan, dan ada kecenderungan obrolan keluar dari topik (*derailed*).
+  - *Target objective:* Mendorong eksekusi pembagian kerja yang jelas dan menyepakati garis waktu (*timeline*) tanpa merusak suasana hubungan kelompok.
+  - *Evidence state awal:* Catatan awal pembagian kerja di Google Docs yang masih kosong, riwayat pesan pengingat di grup obrolan, serta catatan observasi mandiri pasca-diskusi.
+
+## Evidence
+
+### 1. Pemetaan Lima Character di Lima Domain Kehidupan
 
 | Domain dan Character | Person & Relationship | Objective & Responsibility | Repertoire & Language | Risiko dan Latihan |
 | :--- | :--- | :--- | :--- | :--- |
@@ -34,86 +43,55 @@ Dokumen ini disusun sebagai bentuk pemetaan karakter (*Character Map*), analisis
 | **Work / Kampus**<br>*The Pragmatic Executor & Tension Reliever* | Rekan kelompok tugas dan pengurus organisasi/kepanitiaan | **Objective:** Menciptakan alur kerja yang *seamless*, efektif, minim konflik, dan tepat *deadline*.<br>**Responsibility:** Menyelesaikan bagian tugas tanpa banyak revisi dan menjaga dinamika tim. | **Repertoire:** Pembagian tugas & deskripsi tertulis, *timeline*, sistem pengingat H-3, intervensi saat ada masalah.<br>**Language:** *Register switch*—dari santai mencairkan suasana menjadi serius, tegas, dan menggunakan bahasa awam tanpa jargon. | **Risiko:** Terkesan tidak serius di awal, *analysis paralysis* saat mengambil keputusan.<br>**Latihan:** *Decisive decision-making*—mengambil keputusan dengan cepat, mandiri, dan mantap. |
 | **Community**<br>*The Social Butterfly & Community Connector* | Anggota komunitas, pengurus, dan relasi baru dari kegiatan eksternal | **Objective:** Memperluas pertemanan, membangun keakraban, dan menemukan *sense of belonging*.<br>**Responsibility:** Berkontribusi nyata, menjaga suasana terbuka, dan membangun *trust* interpersonal. | **Repertoire:** *Casual approach*, *humor*, *repeated interaction*, *friendship-first approach*.<br>**Language:** *Casual & playful* dengan anggota akrab; *approachable* saat kenal orang baru; profesional saat formal. | **Risiko:** *Friendship bias*, ketergantungan pada *social comfort*, menganggap kedekatan sebagai prasyarat kerja sama.<br>**Latihan:** Membangun *trust* dan kolaborasi efektif bahkan sebelum hubungan personal terlalu dekat. |
 
-## Contoh Perubahan Language
+### 2. Contoh Perubahan Language (Register Switch)
 
-::: {.callout-tip}
-## Perubahan Register Bahasa Sesuai Character
-Perubahan gaya komunikasi ketika menghadapi situasi ketidakjelasan *deadline* atau tanggung jawab:
+Perubahan gaya komunikasi ketika menghadapi situasi ketidakjelasan *deadline* atau tanggung jawab tugas:
 
-* **Sebagai Sahabat/Teman:** 
+* **Sebagai Sahabat/Teman (*The Entertainer–Observer*):**
   > *"Bebas sih mau dikerjain kapan, tapi kalau lu lagi mumet cerita aja dulu, ntar kita kerjain bareng-bareng."*
-* **Sebagai Koordinator/Rekan Kelompok Tugas:** 
+* **Sebagai Koordinator/Rekan Kelompok Tugas (*The Pragmatic Executor*):**
   > *"Biar alur kerjanya lancar dan gak numpuk di akhir, draf bagian ini kita kunci H-3 jam 23.59 ya. Deskripsi tugasnya udah gw tulis di doc, kalau ada yang bingung langsung info."*
-:::
 
----
+## Analisis komunikasi
 
-# Konteks Performance & Episode yang Dianalisis
+| Elemen | Evidence dan analisis |
+| :--- | :--- |
+| **Person & character** | Penulis mengawali interaksi menggunakan karakter *Tension Reliever* (bercanda dan mencairkan suasana), lalu melakukan *register switch* ke *Pragmatic Executor* ketika masuk ke penetapan tanggung jawab teknis. |
+| **Objective & state** | Beralih dari kondisi wacana/ketidakpastian (*initial state*) menjadi kesepakatan tertulis mengenai *owner* tugas dan batas waktu (*target objective*). |
+| **Repertoire & language** | Menggunakan *repertoire* pembagian kerja tertulis di Google Docs dan pesan pengingat. Bahasa berubah dari ragam santai menjadi lugas, langsung ke poin, dan tanpa istilah yang membingungkan (*bahasa awam*). |
+| **Response & adaptation** | Ketika anggota kelompok memberikan masukan atau menyampaikan hambatan, Penulis mendengarkan perspektif mereka terlebih dahulu sebelum menawarkan penyederhanaan alur kerja. |
+| **Agreement/action** | Pembagian deskripsi tugas disepakati bersama di dokumen utama lengkap dengan penetapan pengingat H-3. |
+| **Relationship outcome** | Kerja kelompok berjalan efektif tanpa ada kesan otoriter, dan suasana hubungan antar-anggota kelompok tetap hangat dan harmonis. |
 
-* **Tanggal dan Setting:** Diskusi kelompok tugas mata kuliah dan koordinasi divisi kepanitiaan kampus.
-* **Persons dan Relationship:** Penulis (*Pragmatic Executor*) bersama 3–4 rekan kelompok tugas yang memiliki variasi tingkat keaktifan dan gaya kerja.
-* **Objective dan Initial State:** 
-  * **Initial State:** Diskusi berjalan lambat, anggota ragu mengambil keputusan, dan ada kecenderungan keluar dari topik (*derailed*).
-  * **Target Objective:** Mendorong eksekusi pembagian kerja yang jelas dan menyepakati garis waktu tanpa merusak suasana kelompok.
-* **Evidence:** Catatan pembagian kerja di *Google Docs*, riwayat pesan pengingat di grup obrolan, serta catatan observasi mandiri pasca-diskusi.
+## Penggunaan AI
 
----
+- **Alat dan peran AI:** Gemini digunakan sebagai mitra dialog (*thought partner*) dan pewawancara interaktif untuk mengeksternalisasi pikiran serta membedah pola komunikasi di 5 domain kehidupan.
+- **Prompt atau instruksi penting:** Mendorong AI berperan sebagai pewawancara bertahap per domain, memisahkan antara fakta/evidence dengan asumsi, serta mengkritik bagian risiko dan *next practice*.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Output sintesis AI digunakan untuk merapikan struktur analisis. Beberapa label yang terlalu transaksional (seperti *"networker"*) ditolak dan disesuaikan menjadi *"Social Butterfly & Community Connector"* agar mencerminkan motif hubungan yang genuine.
+- **Pemeriksaan accuracy, privacy, dan authority:** Data pribadi sensitif dihilangkan. Analisis diuji ulang secara mandiri agar mencerminkan realita perilaku asli Penulis.
+- **Apa yang tetap Anda pelajari sebagai manusia:** Kesadaran akan pola komunikasi internal (*overthinking/rumination*) serta pentingnya mengambil keputusan secara lebih tegas (*decisive*) tanpa ragu.
 
-# Analisis Komunikasi
+## Feedback dan tindak lanjut
 
-1. **Person & Character**  
-   Penulis mengawali interaksi menggunakan karakter *Tension Reliever* (bercanda dan mencairkan suasana), lalu melakukan *switch* ke *Pragmatic Executor* ketika masuk ke penetapan tanggung jawab teknis.
-2. **Objective & State**  
-   Beralih dari kondisi wacana/ketidakpastian menjadi kesepakatan tertulis mengenai *owner* tugas dan *deadline*.
-3. **Repertoire & Language**  
-   Menggunakan *repertoire* pembagian kerja tertulis dan pengingat. Bahasa berubah dari ragam santai menjadi lugas, langsung ke poin, dan tanpa istilah yang membingungkan (*bahasa awam*).
-4. **Response & Adaptation**  
-   Ketika anggota kelompok memberikan masukan atau hambatan, penulis mendengarkan perspektif mereka terlebih dahulu sebelum menawarkan penyederhanaan alur kerja.
-5. **Agreement / Action**  
-   Pembagian deskripsi tugas disepakati di dokumen bersama lengkap dengan pengingat H-3.
-6. **Relationship Outcome**  
-   Kerja kelompok berjalan efektif tanpa ada kesan otoriter, dan suasana hubungan antar-anggota tetap hangat.
+- **Feedback yang diterima:** Mitra dialog/observer mencatat bahwa kemampuan analisis dan introspeksi sudah sangat kuat, namun mekanisme pemutus *overthinking* (*circuit breaker*) dan keberanian mengambil keputusan cepat (*decisiveness*) masih perlu dilatih secara konkret.
+- **Adaptation/replay:** Ketika mulai terjebak dalam *analysis paralysis* saat diskusi, Penulis secara sadar membatasi waktu pertimbangan dan langsung menawarkan keputusan terstruktur kepada kelompok.
+- **Next Practice:** Mempraktikkan jeda 5 detik dan menetapkan keputusan secara mandiri tanpa keraguan berlebih ketika memegang tanggung jawab koordinasi.
 
----
+## Self-assessment
 
-# Penggunaan AI
-
-::: {.callout-important}
-## Deklarasi Penggunaan AI
-* **Alat dan Peran AI:** Gemini digunakan sebagai mitra dialog (*thought partner*) dan pewawancara interaktif untuk mengeksternalisasi pikiran serta membedah pola komunikasi di 5 domain kehidupan.
-* **Prompt/Instruksi Penting:** Mendorong AI berperan sebagai pewawancara bertahap per domain, memisahkan antara fakta/evidence dengan asumsi, serta mengkritik bagian risiko dan *next practice*.
-* **Bagian Output yang Digunakan/Ditolak:** Output sintesis AI digunakan untuk merapikan struktur analisis. Beberapa label yang terlalu transaksional (seperti *"networker"*) ditolak dan disesuaikan menjadi *"Social Butterfly & Community Connector"* agar mencerminkan motif hubungan yang genuine.
-* **Pemeriksaan Accuracy, Privacy, & Authority:** Data pribadi sensitif dihilangkan. Analisis diuji ulang secara mandiri agar mencerminkan realita perilaku asli.
-* **Hal yang Tetap Dipelajari sebagai Manusia:** Kesadaran akan pola komunikasi internal (*overthinking/rumination*) serta pentingnya mengambil keputusan secara lebih tegas (*decisive*) tanpa ragu.
-:::
-
----
-
-# Feedback dan Tindak Lanjut
-
-* **Feedback yang Diterima:** *Observer*/mitra dialog mencatat bahwa kemampuan analisis dan introspeksi sudah sangat kuat, namun mekanisme pemutus *overthinking* (*circuit breaker*) dan keberanian mengambil keputusan cepat (*decisiveness*) masih perlu dilatih secara konkret.
-* **Adaptation / Replay:** Ketika mulai terjebak dalam *analysis paralysis* saat diskusi, penulis secara sadar membatasi waktu pertimbangan dan langsung menawarkan keputusan terstruktur kepada kelompok.
-* **Next Practice:** Mempraktikkan jeda 5 detik dan menetapkan keputusan secara mandiri tanpa keraguan berlebih ketika memegang tanggung jawab koordinasi.
-
----
-
-# Self-Assessment
-
-| Dimensi | Skor (1–4) | Evidence Singkat |
+| Dimensi | Skor 1–4 | Evidence singkat |
 | :--- | :---: | :--- |
-| **Person & Character** | **4** | Mampu memetakan 5 *character* secara spesifik di 5 domain kehidupan yang berbeda beserta dinamika relasinya secara mendalam. |
-| **Objective & State** | **3** | *Initial state* dan *target objective* terdefinisi dengan jelas pada setiap interaksi, meski pada beberapa domain masih berproses mencapai keadaan ideal. |
-| **Repertoire, Language & AI** | **4** | Menunjukkan variasi *repertoire*, perubahan bahasa (*register switch*) yang nyata antar-domain, serta batas penggunaan AI yang transparan dan kritis. |
-| **Response & Adaptation** | **3** | Mampu menyesuaikan gaya komunikasi berdasarkan respons lawan bicara (misal: dari becanda ke tegas saat koordinasi tugas). |
-| **Agreement, Action & Relationship** | **3** | Menghasilkan pembagian peran/tugas yang jelas dengan menjaga kualitas hubungan interpersonal tetap harmonis. |
+| **Person & Character** | 4 | Mampu memetakan 5 *character* secara spesifik di 5 domain kehidupan yang berbeda beserta dinamika relasinya secara mendalam. |
+| **Objective & State** | 3 | *Initial state* dan *target objective* terdefinisi dengan jelas pada setiap interaksi, meski pada beberapa domain masih berproses mencapai keadaan ideal. |
+| **Repertoire, Language & AI** | 4 | Menunjukkan variasi *repertoire*, perubahan bahasa (*register switch*) yang nyata antar-domain, serta batas penggunaan AI yang transparan dan kritis. |
+| **Response & Adaptation** | 3 | Mampu menyesuaikan gaya komunikasi berdasarkan respons lawan bicara (misal: dari bercanda ke tegas saat koordinasi tugas). |
+| **Agreement, Action & Relationship** | 3 | Menghasilkan pembagian peran/tugas yang jelas dengan menjaga kualitas hubungan interpersonal tetap harmonis. |
 
-**Total Skor:** 17 / 20 *(Kategori: Sangat Baik / Kompeten Tinggi)*
+**Total: 17 / 20**
 
----
+## Assessment dosen
 
-# Assessment Dosen
-
-* **Skor:** — / 20
-* **Evidence yang mendukung:** —
-* **Prioritas perbaikan:** —
-* **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+- **Skor:** — / 20
+- **Evidence yang mendukung:** —
+- **Prioritas perbaikan:** —
+- **Keputusan:** Siap dinilai
