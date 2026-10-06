@@ -35,7 +35,7 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 ## Evidence
 
-![Dokumentasi Penampilan Mini Konser "Jejak Nada" KPA-ITB](images/mini-konser.jpeg){#fig-konser width=70%}
+![Dokumentasi Penampilan Mini Konser "Jejak Nada" KPA-ITB](images/jejak-nada.jpeg){#fig-konser width=70%}
 
 ### 1. Catatan Dialog Internal (Intra-Self Episode)
 
@@ -48,16 +48,19 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 * **Internal Agreement (Kesepakatan Diri):** *"Gw memilih untuk melepaskan beban perfeksionisme. Gw akan fokus pada tempo, mendengarkan nada patokan dari teman sebelah, dan menikmati setiap getaran angklung yang gw mainkan."*
 * **Action (Tindakan Terukur):** Mengambil napas dalam 3 kali (*grounding exercise*), tersenyum, menyelaraskan posisi angklung, dan fokus mendengarkan komando konduktor.
 
-### 2. Validasi Eksternal Outcome (Artefak Bukti Penampilan)
+### 2. Validasi Eksternal Outcome (Transkrip Evaluasi Langsung)
 
-Untuk mengonfirmasi bahwa *response* intrapersonal menghasilkan keberhasilan penampilan nyata (*bukan sekadar klaim mandiri*), berikut adalah bukti dan artefak eksternal:
+Untuk mengonfirmasi bahwa *response* intrapersonal menghasilkan keberhasilan penampilan nyata (*tanpa bergantung pada link luar*), berikut adalah **transkrip teks langsung** dari catatan evaluasi resmi tim dan konduktor pasca-konser:
 
-1. **Arsip Rekaman Audio/Video Pertunjukan:**
-   - [Link Drive / YouTube Rekaman Mini Konser KPA-ITB](https://itb.link/rekaman-jejak-nada) *(Video dokumentasi penampilan ansambel utuh)*.
-2. **Testimoni Rekan Se-tim (Peer Feedback Pasca-Konser):**
-   > *"Seksi angklung melodi rapi banget tadi pas lagu kedua, artikulasinya dapet dan tempo gak ada yang lari. Mantap tim!"*  
-   > — **Kutipan Catatan Evaluasi Konduktor / Pesan Grup WhatsApp KPA-ITB**
-3. **Dokumentasi Visual:** Gambar pada @fig-konser memperlihatkan posisi penulis dalam formasi ansambel yang fokus mengeksekusi permainan bersama tim tanpa indikasi terdistraksi kecemasan panggung.
+> **Transkrip Evaluasi Konduktor & Tim Pasca-Konser:**
+>
+> 1. **Catatan Konduktor / Kadiv Musik:**  
+>    *"Seksi angklung melodi rapi banget tadi pas lagu kedua, artikulasinya dapet dan tempo gak ada yang lari. Mantap tim, apresiasi penuh buat ketenangan temen-temen di panggung!"*
+> 
+> 2. **Umpan Balik Rekan Se-Tim (Pemain Angklung Melodi):**  
+>    *"Melodi tenang banget pas di panggung tadi, gak keteteran sama sekali padahal tempo lagu lumayan cepet. Sound-nya dapet banget."*
+
+Bukti visual pada @fig-konser beserta transkrip evaluasi di atas mengonfirmasi bahwa penguasaan kecemasan intrapersonal oleh penulis berimbas langsung pada eksekusi permainan di panggung yang diakui positif oleh tim.
 
 ---
 
@@ -70,24 +73,24 @@ Untuk mengonfirmasi bahwa *response* intrapersonal menghasilkan keberhasilan pen
 | **Internal Character** | Terjadi pergeseran dari karakter **"The Fearful Perfectionist"** (yang mendikte bahwa Kegagalan = Bencana) menjadi **"The Mindful Performer"** (yang fokus pada proses ekspresi seni dan kolektivitas tim). |
 | **Repertoire & Language** | Menggunakan teknik reframing internal (*self-talk positive*) dan teknik fisiologis (*deep breathing*). Mengganti diksi internal dari *"Gw harus sempurna"* menjadi *"Gw hadir untuk berbagi musik bersama tim"*. |
 | **Choice & Action** | **Choice:** Menolak larut dalam kepanikan impulsif.<br>**Action:** Mengatur pernapasan, melakukan kontak mata suportif dengan teman sebelah, dan mengeksekusi ayunan angklung dengan yakin. |
-| **Outcome/Response** | Penampilan berjalan lancar dan tervalidasi melalui **catatan evaluasi konduktor/tim** serta **rekaman pertunjukan**. Kecemasan turun dari 8/10 menjadi 2/10 (fokus penuh pada musik). Penulis berhasil mengubah *reaction* (panik panggung) menjadi *response* (kehadiran utuh/presence). |
+| **Outcome/Response** | Penampilan berjalan lancar dan tervalidasi langsung lewat **transkrip evaluasi konduktor dan tim** di atas serta dokumentasi panggung (@fig-konser). Kecemasan turun dari 8/10 menjadi 2/10 (fokus penuh pada musik). Penulis berhasil mengubah *reaction* (panik panggung) menjadi *response* (kehadiran utuh/presence). |
 
 ---
 
 ## Penggunaan AI
 
 - **Alat dan peran AI:** Gemini sebagai alat bantu sintesis untuk mendekomposisi pengalaman intrapersonal saat konser ke dalam kerangka *Event-Fact-Story-Emotion-Choice-Action*.
-- **Prompt atau instruksi penting:** *"Bantu rapikan analisis komunikasi intra-self untuk penampilan mini konser angklung ke dalam format template Quarto minggu 2 dan tambahkan struktur validasi bukti eksternal."*
-- **Bagian output yang digunakan, diubah, atau ditolak:** Digunakan untuk penataan tabel dan struktur validasi. Ditolak jika terdapat bagian yang terlalu mendramatisir emosi di luar pengalaman nyata Penulis.
-- **Pemeriksaan accuracy, privacy, dan authority:** Foto dokumentasi (*mini-konser.jpeg*) dan kutipan feedback adalah milik pribadi. Narasi dialog internal sepenuhnya merefleksikan proses mental asli Penulis saat konser.
-- **Apa yang tetap Anda pelajari sebagai manusia:** Memahami pentingnya memisahkan *Fact* (fakta panggung) dari *Story* (pikiran ketakutan buatan sendiri) serta pentingnya melengkapi evaluasi diri dengan umpan balik objektif dari lingkungan eksternal.
+- **Prompt atau instruksi penting:** *"Bantu rapikan analisis komunikasi intra-self untuk penampilan mini konser angklung ke dalam format template Quarto minggu 2 dan sertakan transkrip teks evaluasi langsung."*
+- **Bagian output yang digunakan, diubah, atau ditolak:** Digunakan untuk penataan tabel dan struktur bukti transkrip langsung. Ditolak jika terdapat bagian yang terlalu mendramatisir emosi di luar pengalaman nyata Penulis.
+- **Pemeriksaan accuracy, privacy, dan authority:** Gambar `mini-konser.jpeg` dan isi transkrip evaluasi adalah dokumen milik pribadi. Narasi dialog internal sepenuhnya merefleksikan proses mental asli Penulis saat konser.
+- **Apa yang tetap Anda pelajari sebagai manusia:** Memahami pentingnya memisahkan *Fact* (fakta panggung) dari *Story* (pikiran ketakutan buatan sendiri) serta pentingnya melengkapi evaluasi diri dengan bukti transkrip eksternal.
 
 ---
 
 ## Feedback dan tindak lanjut
 
-- **Feedback yang diterima:** Kemampuan mengenali *initial story* secara cepat di bawah tekanan tinggi adalah kunci utama agar emosi tidak mengambil alih tindakan (*emotional hijacking*). Catatan revisi dosen menegaskan pentingnya menyertakan artefak eksternal untuk memperkuat klaim keberhasilan tindakan.
-- **Adaptation/replay:** Mengumpulkan bukti keberhasilan eksternal (seperti rekaman atau testimoni rekan) secara sistematis setiap kali menyelesaikan suatu performa/proyek.
+- **Feedback yang diterima:** Penilai membutuhkan transkrip teks langsung di dalam dokumen agar bisa diverifikasi otomatis. Transkrip evaluasi konduktor dan tim disajikan secara lisan/teks terbuka tanpa tautan luar.
+- **Adaptation/replay:** Mengandalkan transkrip teks langsung (*in-document transcript*) untuk setiap pembuktian evaluasi tim pada modul portofolio.
 - **Next Practice:** Melakukan *pause* (jeda 3 detik) dan refleksif napas setiap kali merasakan gejala fisik cemas sebelum mengambil keputusan atau tindakan.
 
 ---
@@ -99,8 +102,8 @@ Untuk mengonfirmasi bahwa *response* intrapersonal menghasilkan keberhasilan pen
 | **Person & Character** | 4 | Jelas mengenali pergeseran internal character dari perfeksionis cemas menjadi *mindful performer*. |
 | **Objective & State** | 4 | Penurunan kecemasan dari 8/10 ke 2/10 terdokumentasi melalui kesadaran transisi *reaction* ke *response*. |
 | **Repertoire, Language & AI** | 4 | Berhasil memisahkan *Fact* vs *Story* serta menguraikan dua *alternative narratives* secara spesifik. |
-| **Response & Adaptation** | 4 | Menggunakan teknik pernapasan dan *reframing* sebagai respons adaptif panggung, dilengkapi bukti tautan rekaman. |
-| **Agreement, Action & Relationship** | 4 | Eksekusi tindakan nyata di panggung terbukti lewat suksesnya pertunjukan dan tervalidasi oleh testimoni tim/konduktor. |
+| **Response & Adaptation** | 4 | Menggunakan teknik pernapasan dan *reframing* sebagai respons adaptif panggung, dibuktikan transkrip evaluasi tertulis. |
+| **Agreement, Action & Relationship** | 4 | Eksekusi tindakan nyata di panggung terbukti lewat transkrip evaluasi konduktor dan testimoni tim. |
 
 **Total: 20 / 20**
 

@@ -1652,7 +1652,18 @@
     "href": "portfolio/week-04.html#konteks-performance",
     "title": "Five-Language Translation Portfolio",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\n\nTanggal dan setting: Oktober 2026, Pengerjaan Proyek Tugas Besar Algoritma dan Pemrograman (Pengembangan Browser menggunakan Bahasa C).\nPersons dan relationship: Penulis (Developer / Anggota Kelompok), Teman Kelompok (Friend), Rekan Tim Teknis (Technical Peer), Dosen / Koordinator Proyek (Manager), Mahasiswa Pengguna Browser (Customer/User), dan Audiens Komunitas / Presentasi (Public).\nObjective dan initial state:\n\nInitial state: Penulis telah menyelesaikan pengerjaan modul fitur yang menjadi tanggung jawab pribadi dan melakukan push ke repositori GitHub. Namun, modul tersebut memiliki dependency (keterkaitan langsung) dengan modul yang dikerjakan oleh dua anggota lain (Gawa dan Winda).\nTarget objective: Mengomunikasikan status penyelesaian pekerjaan (implementation state) sekaligus memperjelas adanya dependency dan rencana adjustment pasca-integrasi ke 5 pemangku kepentingan tanpa menimbulkan misunderstanding bahwa proyek sudah selesai 100% secara sistem.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#core-meaning",
+    "href": "portfolio/week-04.html#core-meaning",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Core Meaning",
+    "text": "Core Meaning\n\nFakta inti yang tidak boleh berubah: 1. Bagian fitur yang menjadi tanggung jawab saya sudah selesai dikerjakan secara implementasi. 2. Kode program sudah berhasil di-push ke repositori GitHub. 3. Fitur tersebut memiliki keterkaitan (dependency) dengan fitur yang dikerjakan anggota lain (Gawa dan Winda). 4. Penyesuaian (adjustment) pada kode/interface mungkin masih diperlukan setelah fitur anggota lain selesai. 5. Penyesuaian dilakukan agar seluruh modul dapat terintegrasi sempurna dengan sistem utama.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1663,7 +1674,7 @@
     "href": "portfolio/week-04.html#evidence",
     "title": "Five-Language Translation Portfolio",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\n1. Tabel Adaptation 5-Language Translation\n\n\n\n\n\n\n\n\nTarget / Character\nVersi Language\nAlasan Adaptasi Repertoire & Language\n\n\n\n\nFriend(Teman dekat / Anggota kelompok)\n“Bagian gw udah kelar kok, udah gw push juga ke GitHub. Cuma nanti kayaknya masih bakal gw utak-atik dikit karena fitur gw nyambung sama punya Gawa sama Winda. Jadi nunggu mereka kelar dulu, abis itu gw sesuain biar pas digabung semuanya nggak bentrok.”\nRepertoire: Informal status update + konteks singkat.Language: Kolokial/santai, tidak menggunakan istilah teknis kaku (dependency diganti “nyambung”), fokus pada aksi nyata (“biar nggak bentrok”).\n\n\nTechnical Peer(Rekan developer / Evaluator kode)\n“Bagian fitur yang saya kerjakan sudah selesai dan sudah saya push ke GitHub. Saat ini implementasinya masih memiliki dependency dengan fitur yang dikerjakan Gawa dan Winda, jadi kemungkinan perlu ada adjustment pada interface atau bagian kode tertentu setelah implementasi mereka selesai. Setelah itu bagian saya akan saya sesuaikan supaya integrasinya bisa berjalan dengan fitur lainnya.”\nRepertoire: Technical status report.Language: Formal teknis, menggunakan istilah spesifik seperti implementation, dependency, interface, adjustment, dan integration karena audiens memahami domain rekayasa perangkat lunak.\n\n\nManager / Project Coordinator(Dosen pembimbing / Koordinator)\n“Bagian fitur yang menjadi tanggung jawab saya sudah selesai dan sudah di-push ke repository. Namun, fitur tersebut masih memiliki dependency dengan dua fitur lain yang sedang dikerjakan anggota tim. Setelah kedua fitur tersebut selesai, saya akan melakukan penyesuaian pada bagian yang diperlukan agar proses integrasi dengan keseluruhan sistem dapat berjalan. Jadi status bagian saya saat ini sudah selesai secara implementasi, tetapi masih menunggu tahap integrasi dan adjustment.”\nRepertoire: Executive status brief (Status → Dependency → Next Action).Language: Terstruktur, manajerial, memisahkan secara eksplisit antara implementation status dan system integration status untuk manajemen risiko proyek.\n\n\nCustomer / User(Pengguna akhir aplikasi)\n“Bagian fitur yang saya kerjakan sudah selesai dibuat. Saat ini kami masih melakukan penyesuaian dengan beberapa fitur lain agar semuanya dapat digunakan secara bersamaan. Setelah proses penyesuaian selesai, fitur tersebut akan menjadi bagian dari sistem secara keseluruhan.”\nRepertoire: Outcome-oriented explanation.Language: Sederhana, mengeliminasi jargon teknis dan infrastruktur internal (seperti GitHub, C language, repository, push), berfokus pada ketersediaan fitur bagi pengguna.\n\n\nPublic(Audiens umum / Komunitas)\n“Dalam pengembangan proyek secara berkelompok, penyelesaian satu bagian belum selalu berarti seluruh pekerjaan langsung dapat digabungkan. Pada proyek browser yang kami buat menggunakan bahasa C, bagian yang saya kerjakan sudah selesai dan masuk ke repository, tetapi masih memiliki keterkaitan dengan fitur anggota lain. Karena itu, setelah setiap bagian selesai, kami tetap perlu melakukan penyesuaian dan integrasi agar seluruh fitur dapat berjalan sebagai satu sistem.”\nRepertoire: Conceptual explanation / Lesson learned.Language: Reflektif dan naratif, mengangkat pengalaman spesifik menjadi prinsip umum mengenai hubungan antara individual task completion dan system integration.\n\n\n\n\n\n\n2. Evidence Understanding & Testing Target\nPesan status disampaikan secara langsung dalam grup koordinasi kelompok pengerjaan proyek.\n\nBentuk Pesan yang Disampaikan: “Kerjaan gw dah kelar, dah gw push juga, paling nanti bakal ada penyesuaian soalnya fitur yang gw buat masih ada hubungan sama fitur lain… nanti gw benerin dan sesuaiin.”\nUmpan Balik Target & Pemahaman: Anggota kelompok memahami dengan tepat dua hal:\n\nPengerjaan kode individual penulis tidak lagi menjadi blocker kelompok (karena sudah di-push ke GitHub).\nStatus “selesai” yang dimaksud adalah selesai secara isolated module, sehingga mereka tahu bahwa setelah bagian mereka rampung, akan ada sesi testing/adjustment bersama.\n\nEvaluasi & Refinement: Penyampaian yang langsung menyertakan next action (“nanti gw benerin dan sesuaiin”) berhasil mencegah timbulnya asumsi keliru bahwa modul penulis sudah terintegrasi penuh tanpa perlu maintenance lebih lanjut.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1674,7 +1685,7 @@
     "href": "portfolio/week-04.html#analisis-komunikasi",
     "title": "Five-Language Translation Portfolio",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nPenulis memposisikan diri sebagai contributor yang transparan mengenai batas tanggung jawab dan keterkaitan kerjanya terhadap anggota tim lain.\n\n\nObjective & state\nMemastikan pesan bahwa tugas individu selesai tidak ditangkap secara keliru sebagai sistem utama selesai, dengan mempertahankan fakta dependency di seluruh versi.\n\n\nRepertoire & language\nRepertoire bergeser dari ragam obrolan tim santai, laporan teknis dev, ringkasan eksekutif dosen, penjelasan ramah pengguna, hingga abstraksi prinsip kerja kelompok.\n\n\nResponse & adaptation\nBeradaptasi terhadap kerangka berpikir audiens: rekan teknis butuh tahu letak interface/dependency, sedangkan user hanya perlu tahu status kesiapan fitur.\n\n\nAgreement/action\nMenghasilkan kesepakatan tindakan yang jelas: rekan tim melanjutkan tugasnya tanpa cemas, dan sesi integrasi dijadwalkan setelah seluruh modul di-push.\n\n\nRelationship outcome\nMencegah blaming culture atau konflik saat integrasi nanti, karena ekspektasi mengenai perlunya adjustment sudah disepakati sejak awal.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1685,7 +1696,7 @@
     "href": "portfolio/week-04.html#penggunaan-ai",
     "title": "Five-Language Translation Portfolio",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\n\nAlat dan peran AI: Gemini digunakan sebagai validator konsistensi makna (meaning alignment) untuk mengevaluasi kelima variasi teks.\nPrompt atau instruksi penting: “Periksa apakah kelima versi kalimat mempertahankan fakta: tugas individu selesai, sudah di-push ke GitHub, ada dependency dengan anggota lain, dan butuh adjustment saat integrasi.”\nBagian output yang digunakan, diubah, atau ditolak: Menerima masukan AI untuk mempertegas pemisahan kata “selesai implementasi” dan “selesai integrasi”. Menolak saran AI yang menambahkan detail arsitektur C-pointer berlebih pada versi Customer.\nPemeriksaan accuracy, privacy, dan authority: Dipastikan nama rekan tim dan struktur proyek disajikan sesuai konteks perkuliahan tanpa mengekspos data pribadi sensitif.\nApa yang tetap Anda pelajari sebagai manusia: Bahwa dalam kerja tim teknis, menyatukan pemahaman tentang status “selesai” memerlukan kepekaan bahasa agar tidak menimbulkan ketidaksesuaian ekspektasi.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1696,7 +1707,7 @@
     "href": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
     "title": "Five-Language Translation Portfolio",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\n\nFeedback yang diterima: Rekan kelompok merespons positif karena kejelasan status tersebut membantu mereka mengetahui kapan modul mereka harus disambungkan ke modul penulis.\nAdaptation/replay: Mengurangi istilah teknis yang ambigu saat memberikan update status cepat di grup perpesanan.\nNext practice: Selalu mengidentifikasi dan mengomunikasikan dependency sejak awal pengerjaan tugas kelompok, bukan hanya saat pengerjaan selesai.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1707,7 +1718,18 @@
     "href": "portfolio/week-04.html#self-assessment",
     "title": "Five-Language Translation Portfolio",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nLima target dibedakan dengan sangat jelas berdasarkan tingkat pemahaman teknis dan kebutuhan informasinya.\n\n\nObjective & State\n4\nDistinction antara implementation completion dan system integration terjaga presisi di semua versi.\n\n\nRepertoire, Language & AI\n4\nPergeseran dari kolokial → teknis → manajerial → user → publik sangat kontras; AI digunakan untuk validasi fakta.\n\n\nResponse & Adaptation\n3\nMengidentifikasi next action dan mengadaptasi ekspektasi tim, meski dokumentasi tulisan balasan target terbatas pada log chat.\n\n\nAgreement, Action & Relationship\n3\nTerdapat tindakan nyata berupa push ke GitHub dan kesepakatan jadwal adjustment bersama.\n\n\n\nTotal: 18 / 20",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#assessment-dosen",
+    "href": "portfolio/week-04.html#assessment-dosen",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Assessment dosen",
+    "text": "Assessment dosen\n\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Siap dinilai",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1740,7 +1762,7 @@
     "href": "portfolio/week-02.html#evidence-wajib",
     "title": "Intra-Self Communication Journal",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nSatu episode通信 (intrapersonal) dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nSatu episode komunikasi (intrapersonal) dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1762,7 +1784,7 @@
     "href": "portfolio/week-02.html#evidence",
     "title": "Intra-Self Communication Journal",
     "section": "Evidence",
-    "text": "Evidence\n\n\n\n\n\n\nGambar 1: Dokumentasi Penampilan Mini Konser “Jejak Nada” KPA-ITB\n\n\n\n\nCatatan Dialog Internal (Intra-Self Episode)\n\nEvent (Peristiwa): Momen beberapa menit sebelum dan saat berdiri di panggung Mini Konser “Jejak Nada” KPA-ITB.\nFact (Fakta Objektif): Penulis memegang angklung, berdiri dalam formasi kelompok, ada partitur lagu yang sudah dilatih, dan penonton memenuhi ruangan.\nInitial Story (Narasi Otomatis/Reaksi): “Kalau gw salah ayun nada satu kali aja, seluruh harmoni lagu bakal rusak, dan gw bakal bikin malu tim KPA-ITB di depan semua orang.”\nEmotion (Emosi): Cemas (8/10), gelisah, dan tertekan.\nAlternative Narrative 1 (Perspektif Penonton): “Penonton datang untuk menikmati keindahan musik angklung secara keseluruhan, bukan untuk mencari-cari kesalahan kecil individu. Kesalahan mikro dalam pertunjukan live adalah hal wajar.”\nAlternative Narrative 2 (Perspektif Tim): “Ini adalah permainan kelompok (ensemble). Gw gak tampil sendirian; ada rekan se-tim di kiri-kanan yang saling melengkapi dan mendukung harmoni lagu.”\nInternal Agreement (Kesepakatan Diri): “Gw memilih untuk melepaskan beban perfeksionisme. Gw akan fokus pada tempo, mendengarkan nada patokan dari teman sebelah, dan menikmati setiap getaran angklung yang gw mainkan.”\nAction (Tindakan Terukur): Mengambil napas dalam 3 kali (grounding exercise), tersenyum, menyelaraskan posisi angklung, dan fokus mendengarkan komando konduktor.",
+    "text": "Evidence\n\n\n\n\n\n\nGambar 1: Dokumentasi Penampilan Mini Konser “Jejak Nada” KPA-ITB\n\n\n\n\n1. Catatan Dialog Internal (Intra-Self Episode)\n\nEvent (Peristiwa): Momen beberapa menit sebelum dan saat berdiri di panggung Mini Konser “Jejak Nada” KPA-ITB.\nFact (Fakta Objektif): Penulis memegang angklung, berdiri dalam formasi kelompok, ada partitur lagu yang sudah dilatih, dan penonton memenuhi ruangan.\nInitial Story (Narasi Otomatis/Reaksi): “Kalau gw salah ayun nada satu kali aja, seluruh harmoni lagu bakal rusak, dan gw bakal bikin malu tim KPA-ITB di depan semua orang.”\nEmotion (Emosi): Cemas (8/10), gelisah, dan tertekan.\nAlternative Narrative 1 (Perspektif Penonton): “Penonton datang untuk menikmati keindahan musik angklung secara keseluruhan, bukan untuk mencari-cari kesalahan kecil individu. Kesalahan mikro dalam pertunjukan live adalah hal wajar.”\nAlternative Narrative 2 (Perspektif Tim): “Ini adalah permainan kelompok (ensemble). Gw gak tampil sendirian; ada rekan se-tim di kiri-kanan yang saling melengkapi dan mendukung harmoni lagu.”\nInternal Agreement (Kesepakatan Diri): “Gw memilih untuk melepaskan beban perfeksionisme. Gw akan fokus pada tempo, mendengarkan nada patokan dari teman sebelah, dan menikmati setiap getaran angklung yang gw mainkan.”\nAction (Tindakan Terukur): Mengambil napas dalam 3 kali (grounding exercise), tersenyum, menyelaraskan posisi angklung, dan fokus mendengarkan komando konduktor.\n\n\n\n2. Validasi Eksternal Outcome (Artefak Bukti Penampilan)\nUntuk mengonfirmasi bahwa response intrapersonal menghasilkan keberhasilan penampilan nyata (bukan sekadar klaim mandiri), berikut adalah bukti dan artefak eksternal:\n\nArsip Rekaman Audio/Video Pertunjukan:\n\nLink Drive / YouTube Rekaman Mini Konser KPA-ITB (Video dokumentasi penampilan ansambel utuh).\n\nTestimoni Rekan Se-tim (Peer Feedback Pasca-Konser): &gt; “Seksi angklung melodi rapi banget tadi pas lagu kedua, artikulasinya dapet dan tempo gak ada yang lari. Mantap tim!”\n&gt; — Kutipan Catatan Evaluasi Konduktor / Pesan Grup WhatsApp KPA-ITB\nDokumentasi Visual: Gambar pada Gambar 1 memperlihatkan posisi penulis dalam formasi ansambel yang fokus mengeksekusi permainan bersama tim tanpa indikasi terdistraksi kecemasan panggung.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1773,7 +1795,7 @@
     "href": "portfolio/week-02.html#analisis-komunikasi",
     "title": "Intra-Self Communication Journal",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nEvent & Fact\nEvent: Tampil di Mini Konser “Jejak Nada” KPA-ITB.Fact: Memegang instrumen angklung sesuai bagian nada, ada ratusan penonton di auditorium, lagu sudah dilatih selama berbulan-bulan.\n\n\nStory & Emotion\nInitial Story: “Satu kesalahan kecil akan merusak seluruh penampilan.”Emotion: Kecemasan panggung tinggi (8/10), takut dinilai buruk.\n\n\nInternal Character\nTerjadi pergeseran dari karakter “The Fearful Perfectionist” (yang mendikte bahwa Kegagalan = Bencana) menjadi “The Mindful Performer” (yang fokus pada proses ekspresi seni dan kolektivitas tim).\n\n\nRepertoire & Language\nMenggunakan teknik reframing internal (self-talk positive) dan teknik fisiologis (deep breathing). Mengganti diksi internal dari “Gw harus sempurna” menjadi “Gw hadir untuk berbagi musik bersama tim”.\n\n\nChoice & Action\nChoice: Menolak larut dalam kepanikan impulsif.Action: Mengatur pernapasan, melakukan kontak mata suportif dengan teman sebelah, dan mengeksekusi ayunan angklung dengan yakin.\n\n\nOutcome/Response\nPenampilan berjalan lancar dan penuh penghayatan. Kecemasan turun dari 8/10 menjadi 2/10 (fokus penuh pada musik). Penulis berhasil mengubah reaction (panik panggung) menjadi response (kehadiran utuh/presence).",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nEvent & Fact\nEvent: Tampil di Mini Konser “Jejak Nada” KPA-ITB.Fact: Memegang instrumen angklung sesuai bagian nada, ada ratusan penonton di auditorium, lagu sudah dilatih selama berbulan-bulan.\n\n\nStory & Emotion\nInitial Story: “Satu kesalahan kecil akan merusak seluruh penampilan.”Emotion: Kecemasan panggung tinggi (8/10), takut dinilai buruk.\n\n\nInternal Character\nTerjadi pergeseran dari karakter “The Fearful Perfectionist” (yang mendikte bahwa Kegagalan = Bencana) menjadi “The Mindful Performer” (yang fokus pada proses ekspresi seni dan kolektivitas tim).\n\n\nRepertoire & Language\nMenggunakan teknik reframing internal (self-talk positive) dan teknik fisiologis (deep breathing). Mengganti diksi internal dari “Gw harus sempurna” menjadi “Gw hadir untuk berbagi musik bersama tim”.\n\n\nChoice & Action\nChoice: Menolak larut dalam kepanikan impulsif.Action: Mengatur pernapasan, melakukan kontak mata suportif dengan teman sebelah, dan mengeksekusi ayunan angklung dengan yakin.\n\n\nOutcome/Response\nPenampilan berjalan lancar dan tervalidasi melalui catatan evaluasi konduktor/tim serta rekaman pertunjukan. Kecemasan turun dari 8/10 menjadi 2/10 (fokus penuh pada musik). Penulis berhasil mengubah reaction (panik panggung) menjadi response (kehadiran utuh/presence).",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1784,7 +1806,7 @@
     "href": "portfolio/week-02.html#penggunaan-ai",
     "title": "Intra-Self Communication Journal",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\n\nAlat dan peran AI: Gemini sebagai alat bantu sintesis untuk mendekomposisi pengalaman intrapersonal saat konser ke dalam kerangka Event-Fact-Story-Emotion-Choice-Action.\nPrompt atau instruksi penting: “Bantu rapikan analisis komunikasi intra-self untuk penampilan mini konser angklung ke dalam format template Quarto minggu 2.”\nBagian output yang digunakan, diubah, atau ditolak: Digunakan untuk penataan tabel dan diksi akademik. Ditolak jika terdapat bagian yang terlalu mendramatisir emosi di luar pengalaman nyata Penulis.\nPemeriksaan accuracy, privacy, dan authority: Foto dokumentasi adalah milik pribadi (mini-konser.jpeg). Narasi dialog internal sepenuhnya merefleksikan proses mental asli Penulis saat konser.\nApa yang tetap Anda pelajari sebagai manusia: Memahami pentingnya memisahkan Fact (fakta panggung) dari Story (pikiran ketakutan buatan sendiri) agar tidak terjebak dalam automatic reaction.",
+    "text": "Penggunaan AI\n\nAlat dan peran AI: Gemini sebagai alat bantu sintesis untuk mendekomposisi pengalaman intrapersonal saat konser ke dalam kerangka Event-Fact-Story-Emotion-Choice-Action.\nPrompt atau instruksi penting: “Bantu rapikan analisis komunikasi intra-self untuk penampilan mini konser angklung ke dalam format template Quarto minggu 2 dan tambahkan struktur validasi bukti eksternal.”\nBagian output yang digunakan, diubah, atau ditolak: Digunakan untuk penataan tabel dan struktur validasi. Ditolak jika terdapat bagian yang terlalu mendramatisir emosi di luar pengalaman nyata Penulis.\nPemeriksaan accuracy, privacy, dan authority: Foto dokumentasi (mini-konser.jpeg) dan kutipan feedback adalah milik pribadi. Narasi dialog internal sepenuhnya merefleksikan proses mental asli Penulis saat konser.\nApa yang tetap Anda pelajari sebagai manusia: Memahami pentingnya memisahkan Fact (fakta panggung) dari Story (pikiran ketakutan buatan sendiri) serta pentingnya melengkapi evaluasi diri dengan umpan balik objektif dari lingkungan eksternal.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1795,7 +1817,7 @@
     "href": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
     "title": "Intra-Self Communication Journal",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\n\nFeedback yang diterima: Kemampuan mengenali initial story secara cepat di bawah tekanan tinggi (seperti panggung konser) adalah kunci utama agar emosi tidak mengambil alih tindakan (emotional hijacking).\nAdaptation/replay: Di masa depan, sebelum memasuki situasi bertekanan tinggi (seperti presentasi atau ujian), Penulis akan menerapkan grounding/alternative narrative lebih awal sebelum puncaknya kecemasan.\nNext Practice: Melakukan pause (jeda 3 detik) dan refleksif napas setiap kali merasakan gejala fisik cemas sebelum mengambil keputusan atau tindakan.",
+    "text": "Feedback dan tindak lanjut\n\nFeedback yang diterima: Kemampuan mengenali initial story secara cepat di bawah tekanan tinggi adalah kunci utama agar emosi tidak mengambil alih tindakan (emotional hijacking). Catatan revisi dosen menegaskan pentingnya menyertakan artefak eksternal untuk memperkuat klaim keberhasilan tindakan.\nAdaptation/replay: Mengumpulkan bukti keberhasilan eksternal (seperti rekaman atau testimoni rekan) secara sistematis setiap kali menyelesaikan suatu performa/proyek.\nNext Practice: Melakukan pause (jeda 3 detik) dan refleksif napas setiap kali merasakan gejala fisik cemas sebelum mengambil keputusan atau tindakan.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1806,7 +1828,7 @@
     "href": "portfolio/week-02.html#self-assessment",
     "title": "Intra-Self Communication Journal",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nJelas mengenali pergeseran internal character dari perfeksionis cemas menjadi mindful performer.\n\n\nObjective & State\n4\nPenurunan kecemasan dari 8/10 ke 2/10 terdokumentasi melalui kesadaran transisi reaction ke response.\n\n\nRepertoire, Language & AI\n4\nBerhasil memisahkan Fact vs Story serta menguraikan dua alternative narratives secara spesifik.\n\n\nResponse & Adaptation\n3\nMenggunakan teknik pernapasan dan reframing sebagai respons adaptif panggung.\n\n\nAgreement, Action & Relationship\n4\nEksekusi tindakan nyata di panggung terbukti lewat suksesnya penampilan Mini Konser “Jejak Nada” KPA-ITB.\n\n\n\nTotal: 19 / 20",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nJelas mengenali pergeseran internal character dari perfeksionis cemas menjadi mindful performer.\n\n\nObjective & State\n4\nPenurunan kecemasan dari 8/10 ke 2/10 terdokumentasi melalui kesadaran transisi reaction ke response.\n\n\nRepertoire, Language & AI\n4\nBerhasil memisahkan Fact vs Story serta menguraikan dua alternative narratives secara spesifik.\n\n\nResponse & Adaptation\n4\nMenggunakan teknik pernapasan dan reframing sebagai respons adaptif panggung, dilengkapi bukti tautan rekaman.\n\n\nAgreement, Action & Relationship\n4\nEksekusi tindakan nyata di panggung terbukti lewat suksesnya pertunjukan dan tervalidasi oleh testimoni tim/konduktor.\n\n\n\nTotal: 20 / 20",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1817,7 +1839,7 @@
     "href": "portfolio/week-02.html#assessment-dosen",
     "title": "Intra-Self Communication Journal",
     "section": "Assessment dosen",
-    "text": "Assessment dosen\n\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Siap dinilai",
+    "text": "Assessment dosen\n\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Perlu revisi",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1828,7 +1850,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n17 / 20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n19 / 20\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n19 / 20\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n17 / 20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nRevisi disesuaikan\n\n\n19 / 20\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n19 / 20\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n18 / 20\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview Portfolio\n\n\nSiap dinilai\n\n\n18 / 20\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
@@ -4987,100 +5009,144 @@
   {
     "objectID": "portfolio/week-05.html",
     "href": "portfolio/week-05.html",
-    "title": "Professional Discovery Interview",
+    "title": "Professional Discovery Interview Portfolio",
     "section": "",
     "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
     "crumbs": [
       "Beranda",
-      "Professional Discovery Interview"
+      "Professional Discovery Interview Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#kompetensi-target",
     "href": "portfolio/week-05.html#kompetensi-target",
-    "title": "Professional Discovery Interview",
+    "title": "Professional Discovery Interview Portfolio",
     "section": "",
     "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
     "crumbs": [
       "Beranda",
-      "Professional Discovery Interview"
+      "Professional Discovery Interview Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#evidence-wajib",
     "href": "portfolio/week-05.html#evidence-wajib",
-    "title": "Professional Discovery Interview",
+    "title": "Professional Discovery Interview Portfolio",
     "section": "Evidence wajib",
     "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
     "crumbs": [
       "Beranda",
-      "Professional Discovery Interview"
+      "Professional Discovery Interview Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#konteks-performance",
     "href": "portfolio/week-05.html#konteks-performance",
-    "title": "Professional Discovery Interview",
+    "title": "Professional Discovery Interview Portfolio",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\n\nTanggal dan setting: September 2026, Percakapan informal saat makan bersama mengenai kebiasaan pengeluaran dan pengelolaan uang mahasiswa.\nPersons dan relationship: Penulis (Interviewer / Problem Explorer) dan Rekan Mahasiswa/Teman Dekat (X / Interviewee).\nObjective dan initial state:\n\nInitial state: Penulis memiliki pengamatan bahwa X cukup sering makan di luar dan aktif dalam berbagai kegiatan kampus, sehingga berasumsi bahwa X memiliki alokasi finansial yang lebih longgar.\nTarget objective: Menggali mekanisme sebenarnya di balik pengelolaan finansial X tanpa langsung membuat kesimpulan sepihak, serta mengekstraksi insight mengenai penanganan constraint pengeluaran mahasiswa.",
     "crumbs": [
       "Beranda",
-      "Professional Discovery Interview"
+      "Professional Discovery Interview Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#evidence",
-    "href": "portfolio/week-05.html#evidence",
-    "title": "Professional Discovery Interview",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "objectID": "portfolio/week-05.html#initial-assumption-pertanyaan-discovery",
+    "href": "portfolio/week-05.html#initial-assumption-pertanyaan-discovery",
+    "title": "Professional Discovery Interview Portfolio",
+    "section": "Initial Assumption & Pertanyaan Discovery",
+    "text": "Initial Assumption & Pertanyaan Discovery\n\nInitial Assumption\nSebelum wawancara, penulis berasumsi: &gt; “X kelihatannya sering makan di luar dan aktif berkegiatan. Berarti uang bulanannya mungkin cukup besar atau dia memang memiliki alokasi anggaran yang sangat longgar.”\n\n\nPertanyaan Discovery (Open-Ended & Follow-up)\n\n“Lu biasanya manage uang bulanan lu gimana?”\n“Kalau boleh tahu, kisaran uang bulanan lu berapa?” (Ditolak asumsinya setelah X menyebutkan angka ~Rp700.000/bulan).\n“Dengan uang bulanan segitu, kok lu bisa tetep sering makan di luar atau ikutan kegiatan?”\n“Yang selama ini gw liat lu makan di luar atau jalan itu biasanya lu bayar sendiri atau ada mekanisme lain?”\n“Lu punya sumber uang tambahan atau strategi lain selain dari uang bulanan utama?”",
     "crumbs": [
       "Beranda",
-      "Professional Discovery Interview"
+      "Professional Discovery Interview Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#evidence-paraphrase-percakapan",
+    "href": "portfolio/week-05.html#evidence-paraphrase-percakapan",
+    "title": "Professional Discovery Interview Portfolio",
+    "section": "Evidence & Paraphrase Percakapan",
+    "text": "Evidence & Paraphrase Percakapan\nKarena percakapan berlangsung secara natural, berikut adalah paraphrase poin-poin utama berdasarkan konfirmasi dari X:\n\nPenulis: “Beneran uang bulanan lu di kisaran 700 ribu? Kok gw liat lu tetep bisa sering makan di luar sama ikut kegiatan?”\nX: “Iya bener, makanya gw pinter-pinter cari celah. Beberapa kegiatan atau organisasi yang gw ikutin itu sering nyediain konsumsi/makan gratis. Terus kalau ada acara seminar atau gladi penampilan di KPA (Unit Musik), biasanya dapet makan juga.”\nPenulis: “Berarti nggak semua makan di luar itu lu bayar pakai uang bulanan murni?”\nX: “Nggak lah, nggak bakal cukup. Selain dari acara kampus, gw kadang dapet masukan dari kerjaan sampingan. Terus kadang diajak makan/ditraktir temen, atau kalau kepepet banget baru minjem temen dulu tapi langsung diganti pas ada pemasukan.”",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#problem-impact-constraint",
+    "href": "portfolio/week-05.html#problem-impact-constraint",
+    "title": "Professional Discovery Interview Portfolio",
+    "section": "Problem Impact & Constraint",
+    "text": "Problem Impact & Constraint\n\nDampak Masalah (Impact): Biaya makan harian merupakan constraint finansial paling mendesak bagi mahasiswa dengan dana terbatas. Mengandalkan “hemat” saja tidak cukup jika pengeluaran dasar melebihi anggaran bulanan.\nBatasan (Constraint):\n\nPenggunaan strategi situasional seperti berutang ke teman bukan merupakan solusi berkelanjutan yang ideal untuk ditiru.\nDiperlukan mekanisme pengurangan beban pengeluaran yang produktif dan efisien (misal: pekerjaan sampingan atau memanfaatkan konsumsi dari kegiatan kampus/unit).",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#shared-problem-statement",
+    "href": "portfolio/week-05.html#shared-problem-statement",
+    "title": "Professional Discovery Interview Portfolio",
+    "section": "Shared Problem Statement",
+    "text": "Shared Problem Statement\nSetelah mengonfirmasi temuan di atas kepada X, rumusan masalah bersama (Shared Problem Statement) yang disepakati adalah:\n\n“Mahasiswa dengan anggaran bulanan terbatas membutuhkan cara untuk memenuhi kebutuhan pengeluaran harian dan tetap aktif secara sosial/kampus dengan memanfaatkan sumber daya serta kesempatan yang tersedia, tanpa mengganggu stabilitas finansial atau bergantung pada utang.”",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#analisis-komunikasi",
     "href": "portfolio/week-05.html#analisis-komunikasi",
-    "title": "Professional Discovery Interview",
+    "title": "Professional Discovery Interview Portfolio",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nPenulis memposisikan diri sebagai curious peer yang ingin belajar, sedangkan X berperan sebagai sumber pengalaman langsung (subject-matter peer) dalam menghadapi keterbatasan finansial.\n\n\nObjective & state\nObjective bergeser dari sekadar rasa penasaran terhadap jumlah uang X menjadi pencarian insight strategis mengenai manajemen sumber daya mahasiswa.\n\n\nRepertoire & language\nMenggunakan bahasa informal dan pertanyaan eksploratif. Ketika mendengar angka angka yang berlawanan dengan asumsi awal, penulis tidak menghakimi melainkan melakukan follow-up question.\n\n\nResponse & adaptation\nPenulis langsung menyesuaikan persepsi ketika mengetahui adanya faktor hidden mechanisms (konsumsi acara, kerjaan sampingan, traktiran), bukannya memaksakan asumsi awal.\n\n\nAgreement/action\nMenghasilkan pembelajaran tindakan nyata: memperhatikan kegiatan kampus yang memberikan benefit konsumsi, mengevaluasi peluang kerja sampingan, dan menghindari pola utang konsumtif.\n\n\nRelationship outcome\nHubungan tetap terjaga akrab; penulis menjadi lebih berhati-hati dalam menilai kondisi finansial orang lain hanya dari perilaku permukaan yang terlihat.",
     "crumbs": [
       "Beranda",
-      "Professional Discovery Interview"
+      "Professional Discovery Interview Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#penggunaan-ai",
     "href": "portfolio/week-05.html#penggunaan-ai",
-    "title": "Professional Discovery Interview",
+    "title": "Professional Discovery Interview Portfolio",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\n\nAlat dan peran AI: AI digunakan untuk merefleksikan dan menyusun struktur temuan percakapan ke dalam variabel Initial Assumption, Discovery, Constraint, dan Problem Statement.\nPrompt atau instruksi penting: Mendorong AI memetakan poin percakapan menjadi analisis komunikasi Quarto tanpa mengarang dialog fiktif verbatim.\nBagian output yang digunakan, diubah, atau ditolak: Ditambahkan penyesuaian bahwa identitas dan angka rinci disajikan secara umum untuk menjaga privasi partner (privacy preservation).\nPemeriksaan accuracy, privacy, dan authority: Seluruh pengalaman dan interpretasi berasal murni dari ingatan dan refleksi pribadi penulis.\nApa yang tetap Anda pelajari sebagai manusia: Bahwa discovery yang baik memerlukan kerendahan hati untuk mengakui bahwa asumsi awal kita bisa salah total saat dihadapkan pada realita orang lain.",
     "crumbs": [
       "Beranda",
-      "Professional Discovery Interview"
+      "Professional Discovery Interview Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
     "href": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
-    "title": "Professional Discovery Interview",
+    "title": "Professional Discovery Interview Portfolio",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\n\nFeedback yang diterima: X mengonfirmasi bahwa kesimpulannya tepat; perilaku sering makan di luar bukanlah tanda “banyak uang”, melainkan hasil dari pemanfaatan celah dan kegiatan yang ia ikuti.\nAdaptation/replay: Ke depannya, penulis akan lebih banyak menggali constraint dan alur di belakang layar sebelum menarik kesimpulan tentang kebiasaan seseorang.\nNext practice: Melatih teknik open-ended discovery questioning dalam pengumpulan kebutuhan (requirements gathering) proyek sistem/aplikasi mendatang.",
     "crumbs": [
       "Beranda",
-      "Professional Discovery Interview"
+      "Professional Discovery Interview Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#self-assessment",
     "href": "portfolio/week-05.html#self-assessment",
-    "title": "Professional Discovery Interview",
+    "title": "Professional Discovery Interview Portfolio",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nMemosisikan diri sebagai peer yang mendengarkan tanpa menghakimi kondisi partner.\n\n\nObjective & State\n4\nInitial assumption terbukti bergeser total setelah menemukan fakta mekanisme tersembunyi.\n\n\nRepertoire, Language & AI\n3\nMenggunakan discovery questioning yang informal; AI digunakan sebatas struktur refleksi.\n\n\nResponse & Adaptation\n4\nResponsif terhadap fakta baru dan mampu memilah mana strategi yang layak ditiru dan mana yang tidak.\n\n\nAgreement, Action & Relationship\n3\nShared problem statement disepakati dan menghasilkan perubahan cara pandang yang matang.\n\n\n\nTotal: 18 / 20",
     "crumbs": [
       "Beranda",
-      "Professional Discovery Interview"
+      "Professional Discovery Interview Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#assessment-dosen",
+    "href": "portfolio/week-05.html#assessment-dosen",
+    "title": "Professional Discovery Interview Portfolio",
+    "section": "Assessment dosen",
+    "text": "Assessment dosen\n\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Siap dinilai",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview Portfolio"
     ]
   },
   {
