@@ -29,8 +29,8 @@ Halaman ini merupakan indeks serta refleksi lintas sesi UTS KIPP 2026 untuk NIM 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
 | Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Lengkap (paper.qmd) |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri & Rekan Tim Pembanding (Analitis) | Selesai | Lengkap (Sesi 1 Intrapersonal & CTE SQL) |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Target 1 (Rekan Kelompok - Overwhelmed Beban Kerja) | Selesai | Lengkap (Sesi 2a Negosiasi & Re-scoping) |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Target 2 (Rekan Kelompok - Segan & Overwhelmed Data) | Selesai | Lengkap (Sesi 2b Support & Olah Data Mentah) |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Customer Target 1 (Pemilik Katering & Kue Kering) | Selesai | Lengkap (Sesi 3a Discovery & Demo Bot WA) |
-| 3b | [hasil_3b_07381119.qmd](UTS/hasil_3b_07381119.qmd) | Customer Target 2 (Pemilik Toko Pakaian Online) | Selesai | Lengkap (Sesi 3b Guardrails AI & Demo WA) |
+| 1 | [hasil_1_18225013.qmd](UTS/hasil_1_18225013.qmd) | Diri & Rekan Tim Pembanding (Analitis) | Selesai | Lengkap (Sesi 1 Intrapersonal & CTE SQL) |
+| 2a | [hasil_2a_18225013.qmd](UTS/hasil_2a_18225013.qmd) | Target 1 (Rekan Kelompok - Overwhelmed Beban Kerja) | Selesai | Lengkap (Sesi 2a Negosiasi & Re-scoping) |
+| 2b | [hasil_2b_18225013.qmd](UTS/hasil_2b_18225013.qmd) | Target 2 (Rekan Kelompok - Segan & Overwhelmed Data) | Selesai | Lengkap (Sesi 2b Support & Olah Data Mentah) |
+| 3a | [hasil_3a_18225013.qmd](UTS/hasil_3a_18225013.qmd) | Customer Target 1 (Pemilik Katering & Kue Kering) | Selesai | Lengkap (Sesi 3a Discovery & Demo Bot WA) |
+| 3b | [hasil_3b_18225013.qmd](UTS/hasil_3b_18225013.qmd) | Customer Target 2 (Pemilik Toko Pakaian Online) | Selesai | Lengkap (Sesi 3b Guardrails AI & Demo WA) |
