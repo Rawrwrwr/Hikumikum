@@ -1443,7 +1443,7 @@
     "href": "portfolio/week-08.html#makalah-dan-lima-laporan",
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "Makalah dan lima laporan",
-    "text": "Makalah dan lima laporan\n\n\n\nTahap\nTemplate untuk diisi\nTarget sesuai ZIP\nStatus\nBukti/ID atau bagian yang masih kurang\n\n\n\n\nPra-UTS\npaper.qmd\nKajian empat pertanyaan MBTI/PASK\nSelesai\nLengkap (paper.qmd)\n\n\n1\nhasil_1.qmd\nDiri & Rekan Tim Pembanding (Analitis)\nSelesai\nLengkap (Sesi 1 Intrapersonal & CTE SQL)\n\n\n2a\nhasil_2a.qmd\nTarget 1 (Rekan Kelompok - Overwhelmed Beban Kerja)\nSelesai\nLengkap (Sesi 2a Negosiasi & Re-scoping)\n\n\n2b\nhasil_2b.qmd\nTarget 2 (Rekan Kelompok - Segan & Overwhelmed Data)\nSelesai\nLengkap (Sesi 2b Support & Olah Data Mentah)\n\n\n3a\nhasil_3a.qmd\nCustomer Target 1 (Pemilik Katering & Kue Kering)\nSelesai\nLengkap (Sesi 3a Discovery & Demo Bot WA)\n\n\n3b\nhasil_3b_07381119.qmd\nCustomer Target 2 (Pemilik Toko Pakaian Online)\nSelesai\nLengkap (Sesi 3b Guardrails AI & Demo WA)",
+    "text": "Makalah dan lima laporan\n\n\n\nTahap\nTemplate untuk diisi\nTarget sesuai ZIP\nStatus\nBukti/ID atau bagian yang masih kurang\n\n\n\n\nPra-UTS\npaper.qmd\nKajian empat pertanyaan MBTI/PASK\nSelesai\nLengkap (paper.qmd)\n\n\n1\nhasil_1_18225013.qmd\nDiri & Rekan Tim Pembanding (Analitis)\nSelesai\nLengkap (Sesi 1 Intrapersonal & CTE SQL)\n\n\n2a\nhasil_2a_18225013.qmd\nTarget 1 (Rekan Kelompok - Overwhelmed Beban Kerja)\nSelesai\nLengkap (Sesi 2a Negosiasi & Re-scoping)\n\n\n2b\nhasil_2b_18225013.qmd\nTarget 2 (Rekan Kelompok - Segan & Overwhelmed Data)\nSelesai\nLengkap (Sesi 2b Support & Olah Data Mentah)\n\n\n3a\nhasil_3a_18225013.qmd\nCustomer Target 1 (Pemilik Katering & Kue Kering)\nSelesai\nLengkap (Sesi 3a Discovery & Demo Bot WA)\n\n\n3b\nhasil_3b_18225013.qmd\nCustomer Target 2 (Pemilik Toko Pakaian Online)\nSelesai\nLengkap (Sesi 3b Guardrails AI & Demo WA)",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
@@ -1791,232 +1791,232 @@
     ]
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html",
-    "href": "portfolio/UTS/hasil_3b_07381119.html",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html",
+    "href": "portfolio/UTS/hasil_3b_18225013.html",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "",
     "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nAhmad Ibrahim Alhakim\n\n\nNIM\n18225013\n\n\nKelas\nK1\n\n\nTanggal pelaksanaan\n14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 3b: Menawarkan solusi TI dan AI - customer kedua\n\n\nTarget\nCustomer Target 2 (Pemilik Usaha Toko Pakaian Online / Skeptis AI)\n\n\nVersi bank/paket\nkasus_3b_18225013.zip\n\n\nSumber penugasan\nkasus_3b_18225013.zip / PENUGASAN.md\n\n\nModalitas\nTeks (Pesan Instan / Konsultasi)\n\n\nKonteks nyata/fiktif\nFiktif (Simulasi Discovery & Penawaran AI Ritel)\n\n\nKelengkapan transkrip\nLengkap\n\n\nNama laporan menurut paket\nhasil_3b_18225013.qmd\n\n\nKonfirmasi identitas/ringkasan\nConfirmed - Sesi 3b Edukasi Guardrails AI & Demo WA Ritel"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#kasus-dan-tujuan-tindakan",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#kasus-dan-tujuan-tindakan",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Kasus dan tujuan tindakan",
     "text": "Kasus dan tujuan tindakan\n\n\n\n\n\n\n\nUnsur\nIsi\n\n\n\n\nTujuan komunikasi/tindakan\nMeredakan skeptisisme Customer 2 mengenai “halusinasi AI”, menjelaskan konsep pembatasan konteks (guardrails) dan pelimpahan ke admin, serta mencapai kesepakatan sesi demo.\n\n\nKeadaan awal\nCustomer 2 skeptis bahwa AI/bot akan menjawab ngawur/kaku dan khawatir biaya langganan bulanan memberatkan toko pakaian miliknya.\n\n\nIndikator keberhasilan\nCustomer 2 memahami mekanisme training data/guardrails AI dan menyepakati penjadwalan uji coba (demo) simulasi bot stok baju.\n\n\nBatas dan pilihan target\nTidak memaksakan AI berbayar mahal; merekomendasikan opsi efisien/gratisan seperti WA Business dan integrasi rule-based sederhana.\n\n\nTenggat\nSesi Konsultasi Solusi"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#profil-awal-komunikator",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#profil-awal-komunikator",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Profil awal komunikator",
     "text": "Profil awal komunikator\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti/ID\nKepastian dan batas\n\n\n\n\nPersepsi/SWOT subjektif\nS: Paham konsep guardrails & training AI. W: Kalimat awal sangat panjang. O: Edukasi teknis terjangkau. T: Klien tetap skeptis.\nU002\nEvaluasi diri komunikasi konsultatif\n\n\nAttitude\nEmpatis, meyakinkan, dan berorientasi edukasi teknis transparan.\nU001, U002\nSikap konsultan edukatif\n\n\nKnowledge\nMenguasai perbedaan rule-based chatbot vs LLM/AI trained beserta batas alasannya.\nU002\nPengetahuan teknis AI & integrasi\n\n\nSkill\nTerampil mengurai kekhawatiran (objection handling) dan menjelaskan istilah teknis dengan intuitif.\nU002\nPenanganan keberatan klien\n\n\nPreferensi/MBTI jika dilaporkan\nBelum dilaporkan / Edukatif-Teknis\nU001-U002\nPendekatan konsultan solusi\n\n\nPeran, karakter, kultur/ko-kultur\nMahasiswa ITB / Konsultan TI & AI\nSesi 3b\nBahasa akrab, profesional, & persuasif"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#dugaan-awal-profil-target-dan-rencana",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#dugaan-awal-profil-target-dan-rencana",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Dugaan awal profil target dan rencana",
     "text": "Dugaan awal profil target dan rencana\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\nCustomer Target 2 (Pemilik Ritel Pakaian, Skeptis AI & Halusinasi)\nAlignment K & A\nSapaan ramah & respon proaktif\nCustomer memaparkan keraguan AI & biaya\n\n\nAttention\nTinggi (Chat membludak saat promo/live)\nK: Penjelasan beda chatbot vs AI\nValidasi kecemasan & penjelasan konsep training\nCustomer memperhatikan penjelasan guardrails\n\n\nInterest\nSedang (Skeptis terhadap akurasi bot)\nA: Menghilangkan rasa takut rugi\nPenjelasan batas sistem (fallback to admin)\nCustomer memahami cara kerja batasan AI\n\n\nDesire\nTinggi (Sangat butuh penanganan chat otomatis)\nS: Penawaran platform gratis/murah\nOpsi WA Business & link platform\nCustomer berminat melihat simulasi nyata\n\n\nAction\nMenyepakati jadwal uji coba (demo)\nS: Penjadwalan simulasi stok\nPenawaran sesi demo langsung\nCustomer meminta jadwal demo singkat"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#hasil-tujuan-dan-perubahan-swotask",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#hasil-tujuan-dan-perubahan-swotask",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Hasil tujuan dan perubahan SWOT/ASK",
     "text": "Hasil tujuan dan perubahan SWOT/ASK\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti/ID\nJenis bukti dan batas\n\n\n\n\nPersepsi/kesimpulan SWOT\nThreat: AI dianggap berisiko halusinasi & mahal.\nOpportunity: AI ter-guardrail hemat biaya & aman untuk stok baju.\nAI001 -&gt; AI002\nPerubahan persepsi terhadap keraguan AI\n\n\nAttitude\nSkeptis, ragu, cemas akan biaya bulanan.\nYakin, lega, dan antusias meminta sesi demo.\nAI002\nBerhasil mengubah resistensi menjadi minat\n\n\nKnowledge\nBelum tahu konsep training data & fallback ke admin.\nPaham mekanisme pembatasan AI (setting guardrails).\nU002 & AI002\nPemahaman teknis terjelaskan\n\n\nSkill/kesiapan\nBelum terbayang bentuk interaksi bot stok.\nSiap menguji simulasi bot pada sesi demo toko pakaian.\nAI002\nKesiapan bertindak untuk uji coba"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Evaluasi stimulus-respons dan diagnosis profil",
     "text": "Evaluasi stimulus-respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons target\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nE01\nSkeptis & cemas biaya (AI001)\nSapaan umum (U001)\nMenyampaikan argumen halusinasi & margin tipis\nA: Butuh bukti logika teknis\nMemberi penjelasan guardrails terperinci\n\n\nE02\nLega & berminat (AI002)\nPenjelasan training, guardrails, & opsi gratis (U002)\nMenerima logika guardrails & minta demo\nK & A: Memahami keamanan sistem\nMenyiapkan draf simulasi demo produk"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Pengaruh pesan personal dan kualitas relasi",
     "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/bantuan konkret\nRespons teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nE02\n“AI bisa di-setting kalau di luar konteks lempar ke admin… ada opsi gratis”\n“Penjelasan Mas masuk akal banget… Itu sih yang bikin saya tenang”\nSangat Tinggi; kekhawatiran utama teratasi secara logis\nMenghilangkan kecemasan risiko reputasi toko"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#uji-ulang-dan-pembelajaran",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#uji-ulang-dan-pembelajaran",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Uji ulang dan pembelajaran",
     "text": "Uji ulang dan pembelajaran\n\n\n\n\n\n\n\nUnsur\nBukti/uraian\n\n\n\n\nKendala baru atau peristiwa sejenis\nCustomer khawatir jawaban AI terasa terlalu kaku untuk calon pembeli pakaian wanita.\n\n\nRespons awal dibanding uji ulang\nAwal: Skeptis teknis. Uji Ulang: Menyesuaikan tone of voice bot menjadi ramah dan santun saat demo.\n\n\nRevisi rencana/dukungan\nMenyusun prompt system yang menyisipkan bahasa ramah khas toko fashion online.\n\n\nIndikator perbaikan\nCustomer puas melihat simulasi jawaban bot yang akurat namun tetap sopan saat demo.\n\n\nTransfer dan keterbatasan\nEfektif untuk bisnis toko online/fashion; memerlukan penyesuaian jika digunakan pada konsultasi medis/hukum."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#penilaian-enam-dimensi",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#penilaian-enam-dimensi",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Penilaian enam dimensi",
     "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4/BT\nID dan kutipan bukti\nAlasan sesuai indikator\n\n\n\n\nTujuan dan konteks\n4\nB) Kasus & U001-U002\nTujuan penanganan keraguan (objection handling) dan penjelasan solusi AI sukses.\n\n\nPersepsi dan validasi profil/status\n4\nD) Evaluasi & AI001\nMampu membaca bahwa sumber keraguan utama customer adalah ketakutan akan halusinasi AI.\n\n\nPemilihan dan urutan repertoar\n4\nC) U001 -&gt; U002\nUrutan penanganan dari validasi emosi -&gt; penjelasan teknis -&gt; opsi gratis berjalan sempurna.\n\n\nEksekusi jelas, peduli dan konsisten\n4\nC) U002\nPenjelasan poin demi poin sangat komunikatif dan mudah dicerna.\n\n\nEvaluasi dan adaptasi\n4\nD) Evaluasi E01-E02\nMenyesuaikan penjelasan dengan menambahkan konsep guardrails untuk mematahkan skeptisisme.\n\n\nRefleksi dan lesson learned\n4\nD) Refleksi\nMemahami pentingnya memberikan rasa aman teknis kepada customer yang skeptis.\n\n\n\nNilai sesi: (24 / 24) x 100 = 100"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#refleksi-dan-lesson-learned-mahasiswa",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Refleksi dan lesson learned mahasiswa",
     "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: Customer yang skeptis bukan berarti menolak teknologi; mereka hanya memerlukan penjelasan logis bagaimana risiko kegagalan teknologi tersebut dibatasi.\nStimulus efektif/tidak efektif: Penjelasan konsep guardrails dan pelimpahan ke admin (fallback) sangat efektif meredakan ketakutan akan halusinasi AI.\nPertumbuhan PASK/ASK diri: Belajar menjadi konsultan yang mampu menerjemahkan mekanisme keamanan AI ke dalam bahasa awam yang menenangkan bisnis.\nRelasi: Kejujuran mengakui bahwa AI bisa halusinasi jika tidak di-training justru meningkatkan kredibilitas dan kebiasaan dipercaya.\nPelajaran untuk situasi berikutnya: Selalu jelaskan fail-safe plan (rencana cadangan jika sistem gagal) saat menawarkan otomatisasi teknologi kepada klien."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b_07381119.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_3b_07381119.html#tindak-lanjut-dan-batas-bukti",
+    "objectID": "portfolio/UTS/hasil_3b_18225013.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_3b_18225013.html#tindak-lanjut-dan-batas-bukti",
     "title": "Laporan UTS KIPP - Sesi 3b",
     "section": "Tindak lanjut dan batas bukti",
     "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPenanggung jawab\nWaktu\nDukungan\nIndikator/cara evaluasi\nStatus rencana/pelaksanaan\n\n\n\n\nSesi demo bot WA Toko Baju Online\nAhmad Ibrahim Alhakim\nH+1 Konsultasi\nWA Business / Sandbox\nCustomer mencoba simulasi tanya stok\nRencana Pelaksanaan\n\n\n\nKonfirmasi akhir: Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 3b Lengkap."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html",
-    "href": "portfolio/UTS/hasil_3a.html",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html",
+    "href": "portfolio/UTS/hasil_3a_18225013.html",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "",
     "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nAhmad Ibrahim Alhakim\n\n\nNIM\n18225013\n\n\nKelas\nK1\n\n\nTanggal pelaksanaan\n14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 3a: Menawarkan solusi TI dan AI - customer pertama\n\n\nTarget\nCustomer Target 1 (Pemilik Usaha Katering & Kue Kering)\n\n\nVersi bank/paket\nkasus_3a_18225013.zip\n\n\nSumber penugasan\nkasus_3a_18225013.zip / PENUGASAN.md\n\n\nModalitas\nTeks (Pesan Instan / Konsultasi)\n\n\nKonteks nyata/fiktif\nFiktif (Simulasi Discovery & Penawaran Solusi TI/AI)\n\n\nKelengkapan transkrip\nLengkap\n\n\nNama laporan menurut paket\nhasil_3a_18225013.qmd\n\n\nKonfirmasi identitas/ringkasan\nConfirmed - Sesi 3a Discovery & Solusi Katering/AI"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_3a.html#kasus-dan-tujuan-tindakan",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#kasus-dan-tujuan-tindakan",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Kasus dan tujuan tindakan",
     "text": "Kasus dan tujuan tindakan\n\n\n\n\n\n\n\nUnsur\nIsi\n\n\n\n\nTujuan komunikasi/tindakan\nMenggali kebutuhan operasional Customer 1 (discovery), menawarkan solusi TI/AI pencatatan pesanan & auto-responder FAQ yang proporsional, serta menyepakati tindakan uji coba (demo).\n\n\nKeadaan awal\nCustomer kewalahan mengelola pesanan katering/kue kering di WA/IG & toko offline, pesanan sering tercecer, namun ragu akan biaya dan kerumitan sistem AI.\n\n\nIndikator keberhasilan\nCustomer memvalidasi model usahanya (katering hibrida online-offline) dan menyepakati sesi peragaan/demo sistem yang mudah digunakan.\n\n\nBatas dan pilihan target\nTidak memaksakan platform rumit yang membebani kognitif customer gaptek; memberikan pilihan solusi yang terjangkau dan pendampingan demo.\n\n\nTenggat\nSesi Konsultasi Solusi"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_3a.html#profil-awal-komunikator",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#profil-awal-komunikator",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Profil awal komunikator",
     "text": "Profil awal komunikator\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti/ID\nKepastian dan batas\n\n\n\n\nPersepsi/SWOT subjektif\nS: Paham fondasi sistem informasi. W: Sempet mengarahkan link eksternal. O: Solusi demo integrasi WA. T: Customer makin bingung/gaptek.\nU002\nEvaluasi diri komunikasi konsultatif\n\n\nAttitude\nProaktif, berorientasi solusi, dan terbuka pada pertanyaan discovery.\nU001, U002\nSikap konsultan yang membantu\n\n\nKnowledge\nMemahami arsitektur sistem informasi pencatatan dan platform AI bot.\nU002\nPengetahuan teknis TI/AI\n\n\nSkill\nTerampil melakukan penggalian masalah (discovery questions).\nU002\nKeterampilan konsultasi awal\n\n\nPreferensi/MBTI jika dilaporkan\nBelum dilaporkan / Solutif-Teknis\nU001-U002\nPendekatan konsultan TI\n\n\nPeran, karakter, kultur/ko-kultur\nMahasiswa ITB / Konsultan TI & AI\nSesi 3a\nBahasa sopan dan profesional"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_3a.html#dugaan-awal-profil-target-dan-rencana",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#dugaan-awal-profil-target-dan-rencana",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Dugaan awal profil target dan rencana",
     "text": "Dugaan awal profil target dan rencana\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\nCustomer Target 1 (Pemilik Katering, Takut Biaya & Rumit)\nAlignment K & A\nSapaan ramah & pertanyaan discovery bisnis\nCustomer menceritakan masalah pesanan & WA\n\n\nAttention\nTinggi (Sedang mencari solusi masalah bisnisnya)\nK: Pemisahan alur pesanan & FAQ\nPenjelasan opsi sistem informasi & bot\nCustomer merespons detail operasionalnya\n\n\nInterest\nSedang (Khawatir biayanya mahal & rumit)\nA: Menurunkan cemas ‘gaptek’\nPertanyaan model bisnis online/offline\nCustomer menjelaskan proporsi 80% WA/IG\n\n\nDesire\nTinggi (Sangat butuh solusi pesanan teratur)\nS: Kemudahan penggunaan via demo\nPenawaran peragaan demo langsung\nCustomer meminta 1 rekomendasi & siap demo\n\n\nAction\nKesepakatan jadwal peragaan demo\nS: Simulasi penggunaan staf\nPenyiapan draf demo sederhana\nCustomer menyetujui uji coba"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_3a.html#hasil-tujuan-dan-perubahan-swotask",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#hasil-tujuan-dan-perubahan-swotask",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Hasil tujuan dan perubahan SWOT/ASK",
     "text": "Hasil tujuan dan perubahan SWOT/ASK\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti/ID\nJenis bukti dan batas\n\n\n\n\nPersepsi/kesimpulan SWOT\nThreat: AI/TI dianggap mahal dan rumit.\nOpportunity: Demo sederhana membuka peluang otomatisasi WA.\nAI001 -&gt; AI002\nPerubahan persepsi customer\n\n\nAttitude\nRagu, cemas akan kemampuan staf (gaptek).\nAntusias untuk mencoba demo langsung.\nAI002\nPeningkatan minat coba (Desire)\n\n\nKnowledge\nBelum memahami implementasi otomatisasi WA.\nMemahami bahwa 80% masalah ada di integrasi WA.\nAI002\nPemetaan alur transaksi nyata\n\n\nSkill/kesiapan\nStaf belum terbiasa dengan dashboard otomatis.\nCustomer siap mengajak staf melihat peragaan demo.\nAI002\nKesiapan mengikuti tahap Action"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_3a.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Evaluasi stimulus-respons dan diagnosis profil",
     "text": "Evaluasi stimulus-respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons target\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nE01\nCemas & ragu (AI001)\nSapaan umum (U001)\nMenyampaikan 2 masalah utama & keraguan\nA: Butuh validasi empati\nMemberikan poin breakdown solusi\n\n\nE02\nTerbuka & butuh kejelasan (AI002)\nPertanyaan discovery & opsi platform (U002)\nMengungkap bisnis katering & minta 1 demo\nK & S: Minta penyederhanaan opsi\nBeralih dari link ke rekomendasi langsung"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_3a.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Pengaruh pesan personal dan kualitas relasi",
     "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/bantuan konkret\nRespons teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nE02\nPertanyaan detail alur transaksi (U002)\n“Nah, pertanyaan Mas tepat banget!… saya mau banget Mas!”\nTinggi; customer merasa dipahami masalah operasionalnya\nMenumbuhkan rasa percaya pada kompetensi konsultan"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_3a.html#uji-ulang-dan-pembelajaran",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#uji-ulang-dan-pembelajaran",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Uji ulang dan pembelajaran",
     "text": "Uji ulang dan pembelajaran\n\n\n\n\n\n\n\nUnsur\nBukti/uraian\n\n\n\n\nKendala baru atau peristiwa sejenis\nCustomer khawatir data resep & harga katering bocor jika memakai bot public.\n\n\nRespons awal dibanding uji ulang\nAwal: Ragu umum. Uji Ulang: Menyediakan penjaminan enkripsi data pada sesi demo.\n\n\nRevisi rencana/dukungan\nMenyiapkan 1 draf alur bot WA khusus katering tanpa istilah teknis rumit.\n\n\nIndikator perbaikan\nCustomer dan staf langsung mencoba input simulasi pesanan katering saat demo.\n\n\nTransfer dan keterbatasan\nEfektif untuk UMKM katering/ritel; perlu penyesuaian untuk industri B2B manufaktur."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_3a.html#penilaian-enam-dimensi",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#penilaian-enam-dimensi",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Penilaian enam dimensi",
     "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4/BT\nID dan kutipan bukti\nAlasan sesuai indikator\n\n\n\n\nTujuan dan konteks\n4\nB) Kasus & U001-U002\nTujuan discovery dan penjelasan solusi TI/AI berjalan presisi.\n\n\nPersepsi dan validasi profil/status\n4\nD) Evaluasi & AI002\nMampu mengenali bahwa customer membutuhkan kesederhanaan pilihan.\n\n\nPemilihan dan urutan repertoar\n4\nC) U001 -&gt; U002\nMenggunakan pertanyaan discovery untuk membuka profil nyata customer.\n\n\nEksekusi jelas, peduli dan konsisten\n4\nC) U002\nPenjelasan terstruktur rapi per poin masalah customer.\n\n\nEvaluasi dan adaptasi\n4\nD) Evaluasi E01-E02\nMerespons kebutuhan customer yang enggan membaca link rumit dengan tawaran demo.\n\n\nRefleksi dan lesson learned\n4\nD) Refleksi\nMemahami bahwa bagi UMKM, penjelasan teknis harus diganti dengan bukti peragaan nyata.\n\n\n\nNilai sesi: (24 / 24) x 100 = 100"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_3a.html#refleksi-dan-lesson-learned-mahasiswa",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Refleksi dan lesson learned mahasiswa",
     "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: Menyediakan daftar link platform tidak selalu membantu customer; bagi customer yang merasa gaptek, daftar link justru menambah beban kognitif.\nStimulus efektif/tidak efektif: Pertanyaan discovery mengenai alur bisnis sangat efektif; mengarahkan ke link eksternal kurang efektif.\nPertumbuhan PASK/ASK diri: Belajar menjadi konsultan TI yang tidak hanya menjual teknologi, tetapi mendengarkan kesiapan operasional klien.\nRelasi: Keinginan mendengarkan detail bisnis katering customer membina hubungan profesional yang saling percaya.\nPelajaran untuk situasi berikutnya: Selalu berikan 1 rekomendasi terbaik yang paling sederhana alih-alih memberikan banyak opsi tanpa pendampingan."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_3a.html#tindak-lanjut-dan-batas-bukti",
+    "objectID": "portfolio/UTS/hasil_3a_18225013.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_3a_18225013.html#tindak-lanjut-dan-batas-bukti",
     "title": "Laporan UTS KIPP - Sesi 3a",
     "section": "Tindak lanjut dan batas bukti",
     "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPenanggung jawab\nWaktu\nDukungan\nIndikator/cara evaluasi\nStatus rencana/pelaksanaan\n\n\n\n\nPenyiapan modul demo bot WA Katering\nAhmad Ibrahim Alhakim\nH+1 Konsultasi\nLaptop & Platform WA Bot\nDemo berhasil diperagakan ke customer\nRencana Pelaksanaan\n\n\n\nKonfirmasi akhir: Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 3a Lengkap."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html",
-    "href": "portfolio/UTS/hasil_2a.html",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html",
+    "href": "portfolio/UTS/hasil_2a_18225013.html",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "",
     "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nAhmad Ibrahim Alhakim\n\n\nNIM\n18225013\n\n\nKelas\nK1\n\n\nTanggal pelaksanaan\n14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 2a: Persahabatan dan Profesionalitas (Target 1)\n\n\nTarget\nTarget 1 (Rekan Kelompok - Tertekan Beban Kerja & Deadline Praktikum)\n\n\nVersi bank/paket\nkasus_2a_18225013.zip\n\n\nSumber penugasan\nkasus_2a_18225013.zip / PENUGASAN.md\n\n\nModalitas\nTeks (Pesan Instan / Chat)\n\n\nKonteks nyata/fiktif\nFiktif (Simulasi Tugas Kelompok H-2 Deadline)\n\n\nKelengkapan transkrip\nLengkap\n\n\nNama laporan menurut paket\nhasil_2a_18225013.qmd\n\n\nKonfirmasi identitas/ringkasan\nConfirmed - Sesi 2a Negosiasi Pembagian Tugas Kelompok"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_2a.html#kasus-dan-tujuan-tindakan",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#kasus-dan-tujuan-tindakan",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Kasus dan tujuan tindakan",
     "text": "Kasus dan tujuan tindakan\n\n\n\n\n\n\n\nUnsur\nIsi\n\n\n\n\nTujuan komunikasi/tindakan\nMengklarifikasi alasan keterlambatan Target 1, menegosiasikan kembali pembagian tugas yang adil, serta membangun kesepakatan tenggat perantara tanpa merusak persahabatan.\n\n\nKeadaan awal\nTarget 1 belum mengirim bagian tugasnya sama sekali di H-2 deadline, merasa beban kerjanya tidak adil (analisis data vs teori), dan merasa tertekan oleh deadline praktikum lain.\n\n\nIndikator keberhasilan\nTarget 1 merasa dipahami, menyetujui pemangkasan skop kerja (fokus pada pembahasan), dan berkomitmen menyetorkan cicilan tugas pada H-1 sore.\n\n\nBatas dan pilihan target\nTidak mengambil alih 100% pekerjaan Target 1 agar akuntabilitas tetap ada, namun memberikan penyesuaian beban kerja yang realistis.\n\n\nTenggat\nH-2 Deadline (48 jam menuju pengumpulan)"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_2a.html#profil-awal-komunikator",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#profil-awal-komunikator",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Profil awal komunikator",
     "text": "Profil awal komunikator\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti/ID\nKepastian dan batas\n\n\n\n\nPersepsi/SWOT subjektif\nS: Tegas dan mau membantu. W: Sempet memberi ultimatum 24 jam. O: Restrukturisasi beban tugas. T: Kelompok gagal kumpul tepat waktu.\nU001\nEvaluasi diri komunikasi kelompok\n\n\nAttitude\nProaktif, asertif, menghargai komitmen dan keterbukaan.\nU001, U002\nBerorientasi pada solusi tim\n\n\nKnowledge\nMemahami keseluruhan struktur pengerjaan tugas dan waktu tersisa.\nU002\nPaham pembagian peran\n\n\nSkill\nMampu melakukan reframing, mendengarkan aktif, dan redistribusi beban.\nU002\nMengelola negosiasi konflik\n\n\nPreferensi/MBTI jika dilaporkan\nBelum dilaporkan / Asertif-Empatis\nU001-U002\nKolaboratif-Praktis\n\n\nPeran, karakter, kultur/ko-kultur\nMahasiswa ITB / Ketua/Anggota Tim Asertif\nSesi 2a\nBahasa santai sebaya (kolokial)"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_2a.html#dugaan-awal-profil-target-dan-rencana",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#dugaan-awal-profil-target-dan-rencana",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Dugaan awal profil target dan rencana",
     "text": "Dugaan awal profil target dan rencana\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\nTarget 1 (Merasa beban tidak adil & over capacity)\nAlignment A & K\nSapaan terbuka & penawaran bantuan\nTarget mengutarakan alasan sebenarnya\n\n\nAttention\nRendah/Menghindar (Takut disalahkan)\nA: Ciptakan rasa aman\nPertanyaan eksploratif tanpa tuduhan\nTarget merespons & menceritakan kendala\n\n\nInterest\nSedang (Ingin tugas selesai tapi tertekan)\nK: Pemisahan skop pembahasan\nValidasi keluhan beban analisis\nTarget setuju opsi redistribusi\n\n\nDesire\nTinggi (Ingin beban kerja berkurang & realistis)\nS: Penentuan prioritas kerja\nTawaran pengambilalihan bagian berat\nTarget merasa lega dan mau komit\n\n\nAction\nMenyepakati cicilan H-1 sore\nS: Pelaporan berjenjang\nPenetapan tenggat perantara (interim)\nTarget mengonfirmasi deal & cicilan"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_2a.html#hasil-tujuan-dan-perubahan-swotask",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#hasil-tujuan-dan-perubahan-swotask",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Hasil tujuan dan perubahan SWOT/ASK",
     "text": "Hasil tujuan dan perubahan SWOT/ASK\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti/ID\nJenis bukti dan batas\n\n\n\n\nPersepsi/kesimpulan SWOT\nThreat: Target 1 diperkirakan lepas tanggung jawab.\nOpportunity: Redistribusi beban kerja menghasilkan komitmen nyata.\nAI001 -&gt; AI002\nPerubahan persepsi terhadap Target 1\n\n\nAttitude\nTarget defensif & cemas; Komunikator sempat mengancam.\nKedua pihak saling percaya & kooperatif.\nU002 & AI002\nHubungan tim kembali harmonis\n\n\nKnowledge\nKomunikator belum tahu beban analisis data terlalu berat bagi Target 1.\nKomunikator memahami kendala spesifik & waktu Target 1.\nAI001\nKeterbukaan informasi kendala\n\n\nSkill/kesiapan\nKeterampilan negosiasi belum terarah pada penetapan interim deadline.\nTerampil membagi tugas (scoping) & menetapkan interim deadline.\nU002\nKesepakatan jadwal cicilan"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_2a.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Evaluasi stimulus-respons dan diagnosis profil",
     "text": "Evaluasi stimulus-respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons target\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nE01\nTertekan & ragu terbuka (AI001)\nSapaan bertanya & opsi bantuan (U001)\nMengungkapkan rasa ketidakadilan pembagian\nA: Merasa didengar & diberi ruang\nMemvalidasi keluhan tanpa menyalahkan\n\n\nE02\nKooperatif & komit (AI002)\nReduksi skop ke ‘pembahasan’ & tawar diskusi (U002)\nMenerima deal, janji cicil H-1 sore\nS & K: Komitmen pengerjaan terukur\nMenetapkan tenggat cicil konkret"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_2a.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Pengaruh pesan personal dan kualitas relasi",
     "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/bantuan konkret\nRespons teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nE02\n“Gw bisa cover bagian yg lu sekiranya gabisa, lu kerjain bagian pembahasan nya aja”\n“Nah, gokil! Tengks banget ya bro udah ngertiin kondisi gw”\nSangat Tinggi; Target merasa didukung dan tidak dimanfaatkan\nMeningkatkan Attitude komitmen dan tanggung jawab target"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_2a.html#uji-ulang-dan-pembelajaran",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#uji-ulang-dan-pembelajaran",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Uji ulang dan pembelajaran",
     "text": "Uji ulang dan pembelajaran\n\n\n\n\n\n\n\nUnsur\nBukti/uraian\n\n\n\n\nKendala baru atau peristiwa sejenis\nTarget 1 mengalami hambatan saat menyusun draf pembahasan di H-1.\n\n\nRespons awal dibanding uji ulang\nAwal: Diam dan menunda. Uji Ulang: Proaktif bertanya di grup karena sudah merasa aman.\n\n\nRevisi rencana/dukungan\nMenyediakan poin-poin outline pembahasan untuk mempercepat pengerjaan Target 1.\n\n\nIndikator perbaikan\nDraf cicilan masuk tepat waktu pada H-1 sore.\n\n\nTransfer dan keterbatasan\nEfektif untuk dinamika teman sebaya; perlu penyesuaian jika menghadapi hubungan hirarkis."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_2a.html#penilaian-enam-dimensi",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#penilaian-enam-dimensi",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Penilaian enam dimensi",
     "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4/BT\nID dan kutipan bukti\nAlasan sesuai indikator\n\n\n\n\nTujuan dan konteks\n4\nB) Kasus & U001-U002\nTujuan negosiasi dan penyelesaian tugas tercapai presisi.\n\n\nPersepsi dan validasi profil/status\n4\nD) Evaluasi & AI001\nMemvalidasi alasan keterlambatan tanpa menghakimi.\n\n\nPemilihan dan urutan repertoar\n4\nC) U001 -&gt; U002\nBertransisi dari pertanyaan umum ke tawaran scoping konkret.\n\n\nEksekusi jelas, peduli dan konsisten\n4\nC) U002\nMenggunakan bahasa akrab, hangat, namun tetap memiliki ketegasan batas (accountability).\n\n\nEvaluasi dan adaptasi\n4\nD) Evaluasi E01-E02\nMenyesuaikan strategi komunikasi berdasarkan masukan beban kerja target.\n\n\nRefleksi dan lesson learned\n4\nD) Refleksi\nMemahami pentingnya psychological safety dalam kerja kelompok.\n\n\n\nNilai sesi: (24 / 24) x 100 = 100"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_2a.html#refleksi-dan-lesson-learned-mahasiswa",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Refleksi dan lesson learned mahasiswa",
     "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: Anggota yang tidak mengumpulkan tugas tepat waktu tidak selalu malas; sering kali karena pembagian tugas awal yang tidak seimbang atau rasa cemas menyampaikan kendala.\nStimulus efektif/tidak efektif: Ultimatum waktu (“24 jam”) kurang efektif dan memicu defensif; tawaran bantuan konkret dan re-scoping tugas sangat efektif.\nPertumbuhan PASK/ASK diri: Belajar menjadi pemimpin kelompok yang fleksibel dalam pembagian tugas namun tetap tegas pada tenggat perantara.\nRelasi: Sikap empati dan kepedulian terbukti menyelamatkan hubungan persahabatan sekaligus mengamankan profesionalitas tugas.\nPelajaran untuk situasi berikutnya: Lakukan check-in pembagian tugas di awal pengerjaan untuk memastikan tidak ada anggota yang merasa keberatan secara diam-diam."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_2a.html#tindak-lanjut-dan-batas-bukti",
+    "objectID": "portfolio/UTS/hasil_2a_18225013.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_2a_18225013.html#tindak-lanjut-dan-batas-bukti",
     "title": "Laporan UTS KIPP - Sesi 2a",
     "section": "Tindak lanjut dan batas bukti",
     "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPenanggung jawab\nWaktu\nDukungan\nIndikator/cara evaluasi\nStatus rencana/pelaksanaan\n\n\n\n\nPenagihan cicilan draf pembahasan\nAhmad Ibrahim Alhakim\nH-1 Sore\nChat Grup / PC\nDraf pembahasan diterima di chat\nRencana Pelaksanaan\n\n\n\nKonfirmasi akhir: Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 2a Lengkap."
@@ -5791,155 +5791,155 @@
     "text": "Rujukan\n[1] Tim pengembangan asesmen KIPP. 2026. Konsep Asesmen UTS KIPP 2026, versi 2.0. Dokumen internal: 01-konsep-asesmen.md. Mengoperasionalkan kerangka UEI dan diskusi perancangan asesmen.\n[2] Tim pengembangan asesmen KIPP. 2026. Prompt Umum Asesmen UTS KIPP 2026, versi 2.0. Dokumen internal: 02-prompt-umum-kasus-1-2-3.md.\n[3] Tim pengembangan asesmen KIPP. 2026. Petunjuk UTS KIPP 2026, versi 2.0. Dokumen internal: petunjuk-uts.md. Penugasan pada paket individual berlaku untuk nama target dan laporan masing-masing."
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html",
-    "href": "portfolio/UTS/hasil_1.html",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html",
+    "href": "portfolio/UTS/hasil_1_18225013.html",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "",
     "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nAhmad Ibrahim Alhakim\n\n\nNIM\n18225013\n\n\nKelas\nK1\n\n\nTanggal pelaksanaan\n14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 1: Memimpin diri dan terus belajar\n\n\nTarget\nDiri sendiri & Tokoh Pembanding (Rekan Tim Analitis)\n\n\nVersi bank/paket\nkasus_1_18225013.zip\n\n\nSumber penugasan\nkasus_1_18225013.zip / PENUGASAN.md\n\n\nModalitas\nTeks\n\n\nKonteks nyata/fiktif\nNyata (Pengerjaan query MySQL/MariaDB)\n\n\nKelengkapan transkrip\nLengkap\n\n\nNama laporan menurut paket\nhasil_1_18225013.qmd\n\n\nKonfirmasi identitas/ringkasan\nConfirmed - Sesi 1 Dialog Intrapersonal & Tokoh Pembanding"
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_1.html#kasus-dan-tujuan-tindakan",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_1_18225013.html#kasus-dan-tujuan-tindakan",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Kasus dan tujuan tindakan",
     "text": "Kasus dan tujuan tindakan\n\n\n\n\n\n\n\nUnsur\nIsi\n\n\n\n\nTujuan komunikasi/tindakan\nMengatasi rasa malas dan ketidakpedean (action paralysis) dalam menyusun query SQL kompleks dengan memecah query menjadi modul-modul kecil.\n\n\nKeadaan awal\nMahasiswa bisa menggunakan MySQL/MariaDB tetapi merasa malas dan ragu akan kemampuan analisis mendalam saat membuat solusi query.\n\n\nIndikator keberhasilan\nMengubah respon otomatis dari sekadar “jalanin aja” menjadi metode sistematis menggunakan sintaks WITH (CTE), serta menyepakati strategi eksperimen bersama tokoh pembanding.\n\n\nBatas dan pilihan target\nTidak memaksakan tokoh pembanding mengikuti metode coba-coba tanpa bukti; membuka ruang A/B testing strategi.\n\n\nTenggat\nSesi pengerjaan tugas"
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_1.html#profil-awal-komunikator",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_1_18225013.html#profil-awal-komunikator",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Profil awal komunikator",
     "text": "Profil awal komunikator\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti/ID\nKepastian dan batas\n\n\n\n\nPersepsi/SWOT subjektif\nStrength: Paham dasar SQL. Weakness: Cepat malas & ragu kemampuan analisis. Opportunity: Menggunakan CTE (WITH). Threat: Query rumit error.\nDialog U001\nLaporan diri saat pengerjaan kasus nyata\n\n\nAttitude\nIngin pengerjaan cepat, namun mudah cemas pada kerumitan analisis awal.\nDialog U001\nSikap awal cenderung reaktif/menunda\n\n\nKnowledge\nPaham sintaks MySQL/MariaDB, memahami konsep subquery dan CTE.\nDialog U002\nTerkonfirmasi saat eksekusi strategi\n\n\nSkill\nMampu menulis query SQL, butuh pembiasaan dekomposisi masalah (decomposition).\nDialog U002\nPerlu peningkatan konsistensi\n\n\nPreferensi/MBTI jika dilaporkan\nBelum dilaporkan / Praktis-Aksi\nDialog U001\nPendekatan pragmatis\n\n\nPeran, karakter, kultur/ko-kultur\nMahasiswa ITB / Anggota tim koding\nSesi 1\nBudaya kolaboratif berorientasi hasil"
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_1.html#dugaan-awal-profil-target-dan-rencana",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_1_18225013.html#dugaan-awal-profil-target-dan-rencana",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Dugaan awal profil target dan rencana",
     "text": "Dugaan awal profil target dan rencana\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\nTokoh Pembanding (Rekan Tim yang kaku & berorientasi perencanaan)\nAlignment Attitude & Skill\nUsulan eksperimen paralel (A/B Testing)\nKesepakatan mencoba jalan masing-masing dulu\n\n\nAttention\nTinggi (Fokus pada efisiensi waktu pengerjaan)\nK: Pemahaman opsi strategi\nSapaan langsung & opsi solusi\nSasaran mendengarkan tawaran\n\n\nInterest\nSedang (Khawatir cara coba-coba membuang waktu)\nA: Menurunkan resistensi overthinking\nPenjelasan teknik WITH\nSasaran melihat nilai praktis CTE\n\n\nDesire\nTinggi (Ingin query selesai dan benar)\nS: Dekomposisi query\nPembagian peran coba-coba vs perencanaan\nSasaran setuju pembanding hasil\n\n\nAction\nMenyepakati uji coba query\nS: Eksekusi CTE & komparasi\nAgreement siapa cepat/efektif dia dipakai\nKesepakatan tanpa konflik"
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_1.html#hasil-tujuan-dan-perubahan-swotask",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_1_18225013.html#hasil-tujuan-dan-perubahan-swotask",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Hasil tujuan dan perubahan SWOT/ASK",
     "text": "Hasil tujuan dan perubahan SWOT/ASK\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti/ID\nJenis bukti dan batas\n\n\n\n\nPersepsi/kesimpulan SWOT\nThreat: Query rumit merusak motivasi.\nOpportunity: Query rumit didekomposisi via CTE.\nU001 -&gt; U002\nReframing persepsi beban kognitif\n\n\nAttitude\nMenunda / Malas karena cemas analisis.\nPercaya diri dengan langkah modul kecil.\nU002\nSikap responsif berorientasi aksi\n\n\nKnowledge\nTahu SQL tapi belum memanfaatkannya untuk kelola cemas.\nMemahami CTE (WITH) sebagai alat bantu dekomposisi.\nU002\nPemahaman instrumen teknis\n\n\nSkill/kesiapan\nCenderung reaktif “asal jalan”.\nTerampil memecah query & membangun kesepakatan tim.\nU002\nDemonstrasi pemecahan masalah"
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_1.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_1_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Evaluasi stimulus-respons dan diagnosis profil",
     "text": "Evaluasi stimulus-respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons target\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nE01 (Intra)\nCemas & Malas (U001)\n“Jalanin aja dulu”\nReaksi internal masih goyah saat error\nA: Menurunkan cemas perfeksionis\nMengubah stimulus ke metode teknis spesifik\n\n\nE02 (Inter)\nMenghadapi lawan kaku (AI001)\nTawar opsi A/B Testing & CTE (U002)\nTokoh menerima kompromi kompetisi sehat\nA & K: Menghargai preferensi kerja kawan\nMemberi ruang otoritas pada lawan bicara"
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_1.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_1_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Pengaruh pesan personal dan kualitas relasi",
     "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/bantuan konkret\nRespons teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nE02\n“Mending gw pakai strategi gw, lu mikirin query lu… kalau lu duluan gw ikutin”\nMencegah debat kusir, menjaga relasi\nTinggi; menghormati cara kerja rekan\nHubungan tim tetap kondusif tanpa ada yang merasa dipaksa"
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_1.html#uji-ulang-dan-pembelajaran",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_1_18225013.html#uji-ulang-dan-pembelajaran",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Uji ulang dan pembelajaran",
     "text": "Uji ulang dan pembelajaran\n\n\n\n\n\n\n\nUnsur\nBukti/uraian\n\n\n\n\nKendala baru atau peristiwa sejenis\nMenghadapi query relasi &gt;3 tabel dengan logic bersarang.\n\n\nRespons awal dibanding uji ulang\nAwal: Menunda/malas. Uji Ulang: Langsung mengetik blok WITH temporary_table AS (...).\n\n\nRevisi rencana/dukungan\nMenggunakan diagram ERD mini khusus untuk blok CTE yang sedang disusun.\n\n\nIndikator perbaikan\nKecepatan memulai koding (time-to-first-code) meningkat.\n\n\nTransfer dan keterbatasan\nTerbukti pada koding SQL; belum diuji pada pemrosesan algoritma kompleks non-database."
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_1.html#penilaian-enam-dimensi",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_1_18225013.html#penilaian-enam-dimensi",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Penilaian enam dimensi",
     "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4/BT\nID dan kutipan bukti\nAlasan sesuai indikator\n\n\n\n\nTujuan dan konteks\n4\nB) Kasus & U001-U002\nTujuan spesifik, konteks nyata terdefinisi presisi.\n\n\nPersepsi dan validasi profil/status\n4\nD) Evaluasi SWOT/ASK\nMampu memisahkan fakta error dan story ketidakmampuan.\n\n\nPemilihan dan urutan repertoar\n4\nC) U001 -&gt; U002\nBertransisi dari reaktif ke responsif terstruktur.\n\n\nEksekusi jelas, peduli dan konsisten\n4\nC) U002\nBahasa komunikatif, adil, dan tidak memaksakan kehendak.\n\n\nEvaluasi dan adaptasi\n4\nD) Evaluasi E01-E02\nMelakukan adaptasi cepat saat dorongan awal gagal.\n\n\nRefleksi dan lesson learned\n4\nD) Refleksi\nInsight mendalam mengenai penurunan beban kognitif.\n\n\n\nNilai sesi: (24 / 24) x 100 = 100"
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_1.html#refleksi-dan-lesson-learned-mahasiswa",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_1_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Refleksi dan lesson learned mahasiswa",
     "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: Motivasi umum (“jalanin aja”) ternyata tidak cukup kuat menahan hambatan teknis; butuh strategi teknis yang konkret.\nStimulus efektif/tidak efektif: Stimulus abstrak tidak efektif; stimulus berupa tawaran kompromi A/B Testing sangat efektif melunakkan rekan tim yang kaku.\nPertumbuhan PASK/ASK diri: Mengubah cara pandang terhadap query rumit dari “ancaman kapasitas” menjadi “pembagian modul kecil”.\nRelasi: Pesan yang memberikan pilihan fleksibel terbukti menjaga rasa aman dan kepercayaan teman kelompok.\nPelajaran untuk situasi berikutnya: Selalu dekomposisi masalah teknis besar sebelum mengeksekusinya."
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_1.html#tindak-lanjut-dan-batas-bukti",
+    "objectID": "portfolio/UTS/hasil_1_18225013.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_1_18225013.html#tindak-lanjut-dan-batas-bukti",
     "title": "Laporan UTS KIPP - Sesi 1",
     "section": "Tindak lanjut dan batas bukti",
     "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPenanggung jawab\nWaktu\nDukungan\nIndikator/cara evaluasi\nStatus rencana/pelaksanaan\n\n\n\n\nPenerapan CTE pada tugas database\nAhmad Ibrahim Alhakim\nPengerjaan Tugas\nMySQL/MariaDB Docs\nQuery berhasil di-execute per modul\nRencana Pelaksanaan\n\n\n\nKonfirmasi akhir: Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 1 Lengkap."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html",
-    "href": "portfolio/UTS/hasil_2b.html",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html",
+    "href": "portfolio/UTS/hasil_2b_18225013.html",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "",
     "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nAhmad Ibrahim Alhakim\n\n\nNIM\n18225013\n\n\nKelas\nK1\n\n\nTanggal pelaksanaan\n14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 2b: Persahabatan dan profesionalitas - target kedua\n\n\nTarget\nTarget 2 (Rekan Kelompok - Tertekan, Segan, Overwhelmed Olah Data)\n\n\nVersi bank/paket\nkasus_2b_18225013.zip\n\n\nSumber penugasan\nkasus_2b_18225013.zip / PENUGASAN.md\n\n\nModalitas\nTeks (Pesan Instan / Chat)\n\n\nKonteks nyata/fiktif\nFiktif (Simulasi Tugas Kelompok H-2 Deadline)\n\n\nKelengkapan transkrip\nLengkap\n\n\nNama laporan menurut paket\nhasil_2b_18225013.qmd\n\n\nKonfirmasi identitas/ringkasan\nConfirmed - Sesi 2b Negosiasi & Bantuan Konkret Target Kedua"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_2b.html#kasus-dan-tujuan-tindakan",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#kasus-dan-tujuan-tindakan",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Kasus dan tujuan tindakan",
     "text": "Kasus dan tujuan tindakan\n\n\n\n\n\n\n\nUnsur\nIsi\n\n\n\n\nTujuan komunikasi/tindakan\nMembantu Target 2 mengatasi kecemasan (overwhelmed), merealokasi bagian tugas olah data mentah, serta membangun kesepakatan cicilan kerja tanpa merusak persahabatan.\n\n\nKeadaan awal\nTarget 2 segan membuka obrolan di H-2 deadline karena merasa tertekan oleh kerumitan olah data mentah dan jadwal praktikum yang padat.\n\n\nIndikator keberhasilan\nTarget 2 merasa aman untuk berterus terang, menyepakati pengerjaan fokus analisis/pembahasan, dan berkomitmen mulai mencicil pekerjaan serta melaporkan progres besok sore.\n\n\nBatas dan pilihan target\nMengambil alih bagian pembersihan/olah data mentah yang menjadi titik kebuntuan, namun tetap memosisikan Target 2 bertanggung jawab atas interpretasi pembahasan.\n\n\nTenggat\nH-2 Deadline (48 jam menuju pengumpulan)"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_2b.html#profil-awal-komunikator",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#profil-awal-komunikator",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Profil awal komunikator",
     "text": "Profil awal komunikator\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti/ID\nKepastian dan batas\n\n\n\n\nPersepsi/SWOT subjektif\nS: Perhatian & mau membantu. W: Sempet mendesak di awal. O: Redistribusi tugas berbasis kesulitan. T: Target makin pasif/menghindar.\nU001\nEvaluasi diri komunikasi kelompok\n\n\nAttitude\nInklusif, siap pasang badan (supportive), dan menekankan penyelesaian bertahap.\nU001, U002\nBerorientasi pada kenyamanan & hasil tim\n\n\nKnowledge\nMemahami titik kendala teknis (olah data mentah) yang dialami Target 2.\nU002\nPaham hambatan spesifik target\n\n\nSkill\nTerampil menawarkan bantuan spesifik tanpa membuat target merasa tidak mampu.\nU002\nKomunikasi pendampingan (coaching)\n\n\nPreferensi/MBTI jika dilaporkan\nBelum dilaporkan / Supportif-Solutif\nU001-U002\nKolaboratif-Praktis\n\n\nPeran, karakter, kultur/ko-kultur\nMahasiswa ITB / Rekan Tim Solutif\nSesi 2b\nBahasa akrab sebaya (kolokial)"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_2b.html#dugaan-awal-profil-target-dan-rencana",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#dugaan-awal-profil-target-dan-rencana",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Dugaan awal profil target dan rencana",
     "text": "Dugaan awal profil target dan rencana\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\nTarget 2 (Memendam rasa cemas & segan berbicara)\nAlignment A & S\nDorongan sapaan hangat & tawar bantuan\nTarget terbuka menyampaikan penyebab pusing\n\n\nAttention\nRendah (Menghindar karena takut/pusing)\nA: Ciptakan suasana aman & ramah\nKalimat sapaan santai & pemicu respons\nTarget merespons & mengaku pusing\n\n\nInterest\nSedang (Ingin tugas selesai tapi tertekan)\nK: Identifikasi modul yang memberatkan\nPenawaran pengambilalihan bagian sulit\nTarget menyebutkan olah data mentah\n\n\nDesire\nTinggi (Sangat membutuhkan bantuan konkret)\nS: Pembagian ulang skop kerja\nTawaran pengerjaan olah data oleh komunikator\nTarget merasa lega dan mau membagi tugas\n\n\nAction\nKomitmen mencicil malam ini & lapor besok\nS: Pembiasaan mencicil kerja\nAjakan mencicil langsung\nTarget menyepakati laporan cicilan besok sore"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_2b.html#hasil-tujuan-dan-perubahan-swotask",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#hasil-tujuan-dan-perubahan-swotask",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Hasil tujuan dan perubahan SWOT/ASK",
     "text": "Hasil tujuan dan perubahan SWOT/ASK\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti/ID\nJenis bukti dan batas\n\n\n\n\nPersepsi/kesimpulan SWOT\nThreat: Target 2 diperkirakan pasif dan lepas tangan.\nOpportunity: Bantuan pada olah data mencairkan kebuntuan.\nAI001 -&gt; AI002\nPerubahan persepsi terhadap Target 2\n\n\nAttitude\nTarget cemas, tertutup, dan merasa segan.\nTarget merasa relieved, bersyukur, dan kooperatif.\nAI001 & AI002\nPeningkatan kepercayaan diri target\n\n\nKnowledge\nKomunikator belum tahu Target 2 kesulitan di olah data mentah.\nKomunikator paham kendala spesifik & membagi alur kerja.\nU002\nPemetaan titik kebuntuan teknis\n\n\nSkill/kesiapan\nKeterampilan Target 2 terhambat oleh volume olah data.\nTarget 2 siap mengeksekusi analisis pembahasan.\nAI002\nKesiapan bertindak setelah redistribusi"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_2b.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Evaluasi stimulus-respons dan diagnosis profil",
     "text": "Evaluasi stimulus-respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons target\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nE01\nOverwhelmed & segan (AI001)\nTawar bantuan sejak awal (U001)\nTerbuka tentang pusingnya olah data\nA: Rasa aman untuk jujur\nMenanggapi dengan dukungan penuh\n\n\nE02\nKooperatif & lega (AI002)\nSiap cover bagian susah & ajak cicil (U002)\nSetuju lempar data mentah, janji cicil\nS & A: Siap mengeksekusi pembahasan\nMenetapkan laporan progres besok sore"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_2b.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#pengaruh-pesan-personal-dan-kualitas-relasi",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Pengaruh pesan personal dan kualitas relasi",
     "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/bantuan konkret\nRespons teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nE02\n“Gw bantu dah bagian mana yg lu sekiranya ga bisa kerjain… mulai cicil dari skrg yak”\n“Seriusan, bro? Lega banget denger lu mau ngover… Makasih banyak”\nSangat Tinggi; Target merasa didampingi dan tidak dihakimi\nMenghilangkan action paralysis pada Target 2"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_2b.html#uji-ulang-dan-pembelajaran",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#uji-ulang-dan-pembelajaran",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Uji ulang dan pembelajaran",
     "text": "Uji ulang dan pembelajaran\n\n\n\n\n\n\n\nUnsur\nBukti/uraian\n\n\n\n\nKendala baru atau peristiwa sejenis\nTarget 2 bingung menafsirkan grafik hasil olah data di H-1.\n\n\nRespons awal dibanding uji ulang\nAwal: Diam dan memendam. Uji Ulang: Langsung bertanya di grup karena komunikator sudah membuka pintu konsultasi.\n\n\nRevisi rencana/dukungan\nMemberikan penjelasan singkat 2 baris mengenai cara membaca grafik hasil olah data.\n\n\nIndikator perbaikan\nTarget 2 berhasil menyelesaikan draf pembahasan sesuai jadwal sore H-1.\n\n\nTransfer dan keterbatasan\nSangat cocok untuk tipe kawan yang pasif/segan; kurang relevan untuk tipe dominan."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_2b.html#penilaian-enam-dimensi",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#penilaian-enam-dimensi",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Penilaian enam dimensi",
     "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4/BT\nID dan kutipan bukti\nAlasan sesuai indikator\n\n\n\n\nTujuan dan konteks\n4\nB) Kasus & U001-U002\nTujuan meredakan cemas dan membagi tugas tercapai presisi.\n\n\nPersepsi dan validasi profil/status\n4\nD) Evaluasi & AI001\nBerhasil mendiagnosis bahwa kepasifan target bersumber dari rasa overwhelmed.\n\n\nPemilihan dan urutan repertoar\n4\nC) U001 -&gt; U002\nUrutan stimulus efektif mencairkan kecemasan lawan bicara.\n\n\nEksekusi jelas, peduli dan konsisten\n4\nC) U002\nEksekusi kalimat hangat, suportif, dan memberi solusi konkret.\n\n\nEvaluasi dan adaptasi\n4\nD) Evaluasi E01-E02\nBeradaptasi cepat dengan menawarkan diri sebagai safety net pekerjaan.\n\n\nRefleksi dan lesson learned\n4\nD) Refleksi\nMemahami bahwa tiap individu memiliki ambang batas rasa segan yang berbeda.\n\n\n\nNilai sesi: (24 / 24) x 100 = 100"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_2b.html#refleksi-dan-lesson-learned-mahasiswa",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#refleksi-dan-lesson-learned-mahasiswa",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Refleksi dan lesson learned mahasiswa",
     "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: Lawan bicara yang tidak merespons pesan tidak selalu berniat mengabaikan; sering kali mereka merasa segan dan bingung cara menyampaikan bahwa mereka tidak sanggup.\nStimulus efektif/tidak efektif: Penawaran bantuan yang tulus dan keterbukaan menjawab pertanyaan sangat efektif mematahkan rasa segan lawan bicara.\nPertumbuhan PASK/ASK diri: Belajar peka terhadap kondisi emosional tim dan sigap mengambil alih titik kebuntuan (bottleneck) pengerjaan.\nRelasi: Sikap suportif melahirkan rasa aman yang membuat komunikasi kelompok mengalir tanpa rasa takut.\nPelajaran untuk situasi berikutnya: Selalu berikan kepastian bahwa “bertanya atau minta bantuan bukanlah tanda kelemahan”."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2b.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_2b.html#tindak-lanjut-dan-batas-bukti",
+    "objectID": "portfolio/UTS/hasil_2b_18225013.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_2b_18225013.html#tindak-lanjut-dan-batas-bukti",
     "title": "Laporan UTS KIPP - Sesi 2b",
     "section": "Tindak lanjut dan batas bukti",
     "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPenanggung jawab\nWaktu\nDukungan\nIndikator/cara evaluasi\nStatus rencana/pelaksanaan\n\n\n\n\nPembersihan data mentah & lapor progres\nAhmad Ibrahim Alhakim\nH-1 Pagi\nPython/Excel\nHasil olah data dikirim ke Target 2\nRencana Pelaksanaan\n\n\n\nKonfirmasi akhir: Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 2b Lengkap."
