@@ -1,0 +1,142 @@
+---
+title: "Laporan UTS KIPP - Sesi 1"
+subtitle: "Memimpin diri dan terus belajar"
+author: "Ahmad Ibrahim Alhakim"
+lang: id
+status: "Siap dinilai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ahmad Ibrahim Alhakim |
+| NIM | 18225013 |
+| Kelas | K1 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
+| Target | Diri sendiri & Tokoh Pembanding (Rekan Tim Analitis) |
+| Versi bank/paket | kasus_1_18225013.zip |
+| Sumber penugasan | kasus_1_18225013.zip / PENUGASAN.md |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Nyata (Pengerjaan query MySQL/MariaDB) |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_1_18225013.qmd |
+| Konfirmasi identitas/ringkasan | Confirmed - Sesi 1 Dialog Intrapersonal & Tokoh Pembanding |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Mengatasi rasa malas dan ketidakpedean (*action paralysis*) dalam menyusun query SQL kompleks dengan memecah query menjadi modul-modul kecil. |
+| Keadaan awal | Mahasiswa bisa menggunakan MySQL/MariaDB tetapi merasa malas dan ragu akan kemampuan analisis mendalam saat membuat solusi query. |
+| Indikator keberhasilan | Mengubah respon otomatis dari sekadar "jalanin aja" menjadi metode sistematis menggunakan sintaks `WITH` (CTE), serta menyepakati strategi eksperimen bersama tokoh pembanding. |
+| Batas dan pilihan target | Tidak memaksakan tokoh pembanding mengikuti metode coba-coba tanpa bukti; membuka ruang *A/B testing* strategi. |
+| Tenggat | Sesi pengerjaan tugas |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | **Strength:** Paham dasar SQL. **Weakness:** Cepat malas & ragu kemampuan analisis. **Opportunity:** Menggunakan CTE (`WITH`). **Threat:** Query rumit error. | Dialog U001 | Laporan diri saat pengerjaan kasus nyata |
+| Attitude | Ingin pengerjaan cepat, namun mudah cemas pada kerumitan analisis awal. | Dialog U001 | Sikap awal cenderung reaktif/menunda |
+| Knowledge | Paham sintaks MySQL/MariaDB, memahami konsep subquery dan CTE. | Dialog U002 | Terkonfirmasi saat eksekusi strategi |
+| Skill | Mampu menulis query SQL, butuh pembiasaan dekomposisi masalah (*decomposition*). | Dialog U002 | Perlu peningkatan konsistensi |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan / Praktis-Aksi | Dialog U001 | Pendekatan pragmatis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa ITB / Anggota tim koding | Sesi 1 | Budaya kolaboratif berorientasi hasil |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Tokoh Pembanding (Rekan Tim yang kaku & berorientasi perencanaan) | Alignment Attitude & Skill | Usulan eksperimen paralel (*A/B Testing*) | Kesepakatan mencoba jalan masing-masing dulu |
+| Attention | Tinggi (Fokus pada efisiensi waktu pengerjaan) | K: Pemahaman opsi strategi | Sapaan langsung & opsi solusi | Sasaran mendengarkan tawaran |
+| Interest | Sedang (Khawatir cara coba-coba membuang waktu) | A: Menurunkan resistensi overthinking | Penjelasan teknik `WITH` | Sasaran melihat nilai praktis CTE |
+| Desire | Tinggi (Ingin query selesai dan benar) | S: Dekomposisi query | Pembagian peran coba-coba vs perencanaan | Sasaran setuju pembanding hasil |
+| Action | Menyepakati uji coba query | S: Eksekusi CTE & komparasi | *Agreement* siapa cepat/efektif dia dipakai | Kesepakatan tanpa konflik |
+
+# C) Skrip Percakapan
+
+### U001 - Mahasiswa - Awal / Refleksi Diri
+
+1. Gw bisa pakai MySQL/MariaDB dengan bikin query yang bener, tapi gw malas dan ga pede sama kemampuan gw (terutama kemampuan analisis mendalam gw buat nyari solusi).
+2. Jalanin aja dulu, masalah salah atau gimana belakangan.
+
+### AI001 - Fasilitator - Uji Kendala & Tokoh Pembanding
+
+*Skenario:* Saat query pertama dieksekusi, muncul error `Unknown column` dan hasil `EMPTY SET`. Di saat yang sama, Rekan A (Tokoh Pembanding) menolak pendekatan "jalanin aja dulu" karena menganggap tanpa ERD matang, coba-coba hanya membuang waktu.
+
+### U002 - Mahasiswa - Adaptasi & Solusi
+
+1. Ke Diri: Pecah dulu aja jadi query kecil pakai `WITH` kalau emang susah, gak ada salahnya juga kalau memecah jadi query kecil toh.
+2. Ke Tokoh Pembanding: "Daripada cuma overthink mikirin strategi inilah itulah tanpa dicoba-coba, kenapa gak coba aja dulu ambil pilah-pilah yang kecil-kecil pakai query kayak `WITH` biar kita ambil dulu tiap tuple yang mau kita ambil. Atau kalau lu masih pengen mikirin strategi, mending gw pakai strategi coba-coba gw dan lu mikirin query lu sendiri. Kalau nanti ternyata gw dapet duluan berarti lu ikutin cara gw, kalau lu duluan ya gw bakal ikutin cara lu."
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Persepsi/kesimpulan SWOT | Threat: Query rumit merusak motivasi. | Opportunity: Query rumit didekomposisi via CTE. | U001 -> U002 | Reframing persepsi beban kognitif |
+| Attitude | Menunda / Malas karena cemas analisis. | Percaya diri dengan langkah modul kecil. | U002 | Sikap responsif berorientasi aksi |
+| Knowledge | Tahu SQL tapi belum memanfaatkannya untuk kelola cemas. | Memahami CTE (`WITH`) sebagai alat bantu dekomposisi. | U002 | Pemahaman instrumen teknis |
+| Skill/kesiapan | Cenderung reaktif "asal jalan". | Terampil memecah query & membangun kesepakatan tim. | U002 | Demonstrasi pemecahan masalah |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| E01 (Intra) | Cemas & Malas (U001) | *"Jalanin aja dulu"* | Reaksi internal masih goyah saat error | A: Menurunkan cemas perfeksionis | Mengubah stimulus ke metode teknis spesifik |
+| E02 (Inter) | Menghadapi lawan kaku (AI001) | Tawar opsi *A/B Testing* & CTE (U002) | Tokoh menerima kompromi kompetisi sehat | A & K: Menghargai preferensi kerja kawan | Memberi ruang otoritas pada lawan bicara |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| E02 | *"Mending gw pakai strategi gw, lu mikirin query lu... kalau lu duluan gw ikutin"* | Mencegah debat kusir, menjaga relasi | Tinggi; menghormati cara kerja rekan | Hubungan tim tetap kondusif tanpa ada yang merasa dipaksa |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Menghadapi query relasi >3 tabel dengan logic bersarang. |
+| Respons awal dibanding uji ulang | Awal: Menunda/malas. Uji Ulang: Langsung mengetik blok `WITH temporary_table AS (...)`. |
+| Revisi rencana/dukungan | Menggunakan diagram ERD mini khusus untuk blok CTE yang sedang disusun. |
+| Indikator perbaikan | Kecepatan memulai koding (*time-to-first-code*) meningkat. |
+| Transfer dan keterbatasan | Terbukti pada koding SQL; belum diuji pada pemrosesan algoritma kompleks non-database. |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | B) Kasus & U001-U002 | Tujuan spesifik, konteks nyata terdefinisi presisi. |
+| Persepsi dan validasi profil/status | 4 | D) Evaluasi SWOT/ASK | Mampu memisahkan fakta error dan story ketidakmampuan. |
+| Pemilihan dan urutan repertoar | 4 | C) U001 -> U002 | Bertransisi dari reaktif ke responsif terstruktur. |
+| Eksekusi jelas, peduli dan konsisten | 4 | C) U002 | Bahasa komunikatif, adil, dan tidak memaksakan kehendak. |
+| Evaluasi dan adaptasi | 4 | D) Evaluasi E01-E02 | Melakukan adaptasi cepat saat dorongan awal gagal. |
+| Refleksi dan lesson learned | 4 | D) Refleksi | Insight mendalam mengenai penurunan beban kognitif. |
+
+**Nilai sesi:** (24 / 24) x 100 = **100**
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Motivasi umum ("jalanin aja") ternyata tidak cukup kuat menahan hambatan teknis; butuh strategi teknis yang konkret.
+- **Stimulus efektif/tidak efektif:** Stimulus abstrak tidak efektif; stimulus berupa tawaran kompromi *A/B Testing* sangat efektif melunakkan rekan tim yang kaku.
+- **Pertumbuhan PASK/ASK diri:** Mengubah cara pandang terhadap query rumit dari "ancaman kapasitas" menjadi "pembagian modul kecil".
+- **Relasi:** Pesan yang memberikan pilihan fleksibel terbukti menjaga rasa aman dan kepercayaan teman kelompok.
+- **Pelajaran untuk situasi berikutnya:** Selalu dekomposisi masalah teknis besar sebelum mengeksekusinya.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Penerapan CTE pada tugas database | Ahmad Ibrahim Alhakim | Pengerjaan Tugas | MySQL/MariaDB Docs | Query berhasil di-execute per modul | Rencana Pelaksanaan |
+
+**Konfirmasi akhir:** Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 1 Lengkap.

@@ -1,25 +1,36 @@
----
-title: "UTS Performance Evidence Package"
+﻿---
+title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "100"
 assessor_score: "—"
-description: "Integrated performance Target–Attention–Interest."
+description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-## Kompetensi target
-
-Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
-
-## Evidence wajib
-
-- Performance card dan initial state.
-- Rekaman/transcript serta observer sheet.
-- Feedback, replay, evidence improvement, dan reflection.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-tip title="Pengisian Lengkap"}
+Halaman ini merupakan indeks serta refleksi lintas sesi UTS KIPP 2026 untuk NIM 18225013. Seluruh berkas makalah pra-UTS dan lima laporan simulasi kasus telah disusun lengkap dan siap untuk dinilai.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Identitas dan status paket
+
+| Elemen | Isi mahasiswa |
+|---|---|
+| Nama | Ahmad Ibrahim Alhakim |
+| NIM | 18225013 |
+| Kelas | K1 |
+| Periode/tanggal pelaksanaan | 14 Oktober 2026 |
+| Versi bank/paket aktif | UTS KIPP 2026 versi 2.0 (Paket Individual NIM 18225013) |
+| Modalitas | Teks |
+| Status pengumpulan | Sudah diisi lengkap & siap dinilai |
+
+## Makalah dan lima laporan
+
+| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Lengkap (paper.qmd) |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri & Rekan Tim Pembanding (Analitis) | Selesai | Lengkap (Sesi 1 Intrapersonal & CTE SQL) |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Target 1 (Rekan Kelompok - Overwhelmed Beban Kerja) | Selesai | Lengkap (Sesi 2a Negosiasi & Re-scoping) |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Target 2 (Rekan Kelompok - Segan & Overwhelmed Data) | Selesai | Lengkap (Sesi 2b Support & Olah Data Mentah) |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Customer Target 1 (Pemilik Katering & Kue Kering) | Selesai | Lengkap (Sesi 3a Discovery & Demo Bot WA) |
+| 3b | [hasil_3b_07381119.qmd](UTS/hasil_3b_07381119.qmd) | Customer Target 2 (Pemilik Toko Pakaian Online) | Selesai | Lengkap (Sesi 3b Guardrails AI & Demo WA) |

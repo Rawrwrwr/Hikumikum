@@ -1,0 +1,146 @@
+---
+title: "Laporan UTS KIPP - Sesi 3a"
+subtitle: "Menawarkan solusi TI dan AI - customer pertama"
+author: "Ahmad Ibrahim Alhakim"
+lang: id
+status: "Siap dinilai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ahmad Ibrahim Alhakim |
+| NIM | 18225013 |
+| Kelas | K1 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - customer pertama |
+| Target | Customer Target 1 (Pemilik Usaha Katering & Kue Kering) |
+| Versi bank/paket | kasus_3a_18225013.zip |
+| Sumber penugasan | kasus_3a_18225013.zip / PENUGASAN.md |
+| Modalitas | Teks (Pesan Instan / Konsultasi) |
+| Konteks nyata/fiktif | Fiktif (Simulasi Discovery & Penawaran Solusi TI/AI) |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_3a_18225013.qmd |
+| Konfirmasi identitas/ringkasan | Confirmed - Sesi 3a Discovery & Solusi Katering/AI |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Menggali kebutuhan operasional Customer 1 (*discovery*), menawarkan solusi TI/AI pencatatan pesanan & auto-responder FAQ yang proporsional, serta menyepakati tindakan uji coba (*demo*). |
+| Keadaan awal | Customer kewalahan mengelola pesanan katering/kue kering di WA/IG & toko offline, pesanan sering tercecer, namun ragu akan biaya dan kerumitan sistem AI. |
+| Indikator keberhasilan | Customer memvalidasi model usahanya (katering hibrida online-offline) dan menyepakati sesi peragaan/demo sistem yang mudah digunakan. |
+| Batas dan pilihan target | Tidak memaksakan platform rumit yang membebani kognitif customer gaptek; memberikan pilihan solusi yang terjangkau dan pendampingan demo. |
+| Tenggat | Sesi Konsultasi Solusi |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | **S:** Paham fondasi sistem informasi. **W:** Sempet mengarahkan link eksternal. **O:** Solusi demo integrasi WA. **T:** Customer makin bingung/gaptek. | U002 | Evaluasi diri komunikasi konsultatif |
+| Attitude | Proaktif, berorientasi solusi, dan terbuka pada pertanyaan *discovery*. | U001, U002 | Sikap konsultan yang membantu |
+| Knowledge | Memahami arsitektur sistem informasi pencatatan dan platform AI bot. | U002 | Pengetahuan teknis TI/AI |
+| Skill | Terampil melakukan penggalian masalah (*discovery questions*). | U002 | Keterampilan konsultasi awal |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan / Solutif-Teknis | U001-U002 | Pendekatan konsultan TI |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa ITB / Konsultan TI & AI | Sesi 3a | Bahasa sopan dan profesional |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Customer Target 1 (Pemilik Katering, Takut Biaya & Rumit) | Alignment K & A | Sapaan ramah & pertanyaan *discovery* bisnis | Customer menceritakan masalah pesanan & WA |
+| Attention | Tinggi (Sedang mencari solusi masalah bisnisnya) | K: Pemisahan alur pesanan & FAQ | Penjelasan opsi sistem informasi & bot | Customer merespons detail operasionalnya |
+| Interest | Sedang (Khawatir biayanya mahal & rumit) | A: Menurunkan cemas 'gaptek' | Pertanyaan model bisnis online/offline | Customer menjelaskan proporsi 80% WA/IG |
+| Desire | Tinggi (Sangat butuh solusi pesanan teratur) | S: Kemudahan penggunaan via demo | Penawaran peragaan demo langsung | Customer meminta 1 rekomendasi & siap demo |
+| Action | Kesepakatan jadwal peragaan demo | S: Simulasi penggunaan staf | Penyiapan draf demo sederhana | Customer menyetujui uji coba |
+
+# C) Skrip Percakapan
+
+### U001 - Mahasiswa - Opening
+
+Halo Pak/Bu ada yang bisa saya bantu?
+
+### AI001 - Customer Target 1 - Problem Statement & Hesitation
+
+Halo Mas! Iya nih, saya emang lagi nyari solusi buat operasional usaha saya. Akhir-akhir ini pesanan pelanggan sering banget tercecer dan pencatatannya berantakan. Terus admin saya juga habis waktunya cuma buat jawab pertanyaan FAQ yang berulang-ulang dari calon pembeli di chat. Staf saya cuma 2 orang, jadi balasan sering lambat dan pelanggan komplain. Saya sempet denger-denger soal AI atau sistem otomatisasi TI gitu, tapi jujur saya ragu: takut biayanya kemahalan, terus takut sistemnya ribet dan staf saya malah bingung pakenya. Menurut Mas ada solusi yang pas gak ya buat kondisi usaha saya?
+
+### U002 - Mahasiswa - Discovery & Structural Framing
+
+Hai Pak/Bu, ada kok solusinya, saya jabarkan ya:
+1. Untuk masalah pesanan pelanggan sering tercecer dan pencatatannya berantakan, solusi dari saya pertama bisa dibuat dulu sistem informasinya terlebih dahulu, kita lihat dulu bagaimana pelanggan bisa memesan pesanan ke ibu, bagaimana mereka bertransaksi, dan bagaimana pesanan yang telah dibayar dicatat dan dapat diakses oleh ibu serta karyawan. Untuk itu saya boleh tanya dahulu usaha ibu apakah juga berjalan offline atau hanya online? Atau keduanya? Dan usaha nya bergerak di bidang apa?
+2. Untuk permasalahan jawab pertanyaan, sekarang memang sudah ada bot atau AI untuk menjawab pertanyaan kustomer, dan sangat memungkinkan untuk diimplementasikan, untuk biaya ada yang gratis kok, untuk list dan cara penggunaannya tiap platform nya saya kirim kan di link ini ya bu www.list_platform.com (ya ini intinya isinya ngejawab si kustomer itulah listnya isinya platform apa aja, gratis apa kagak, cara pakai dan integrasinya gimana)
+
+### AI002 - Customer Target 1 - Validation & Demo Request
+
+Nah, pertanyaan Mas tepat banget! Usaha saya ini katering dan kue kering kecil-kecilan. Kami ada toko offline kecil di rumah, tapi 80% pesanan masuknya online via WhatsApp dan Instagram. Jadi sering bentrok pas admin lagi melayani pembeli offline, chat WA yang masuk malah numpuk dan pesanan suka kelewat dicatat. Soal link platform tadi (`www.list_platform.com`), jujur saya sama staf rada gaptek Mas, kalau disuruh buka link terus milih sendiri takutnya malah makin pusing dan bingung mana yang pas. Boleh dibantu rekomendasikan 1 aja yang paling gampang dan aman buat katering saya gak Mas? Kalau sistem pencatatan pesanan sama bot WA-nya bisa langsung dicoba dulu (demo) biar staf saya bisa lihat gambaran gampangnya, saya mau banget Mas!
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Persepsi/kesimpulan SWOT | Threat: AI/TI dianggap mahal dan rumit. | Opportunity: Demo sederhana membuka peluang otomatisasi WA. | AI001 -> AI002 | Perubahan persepsi customer |
+| Attitude | Ragu, cemas akan kemampuan staf (*gaptek*). | Antusias untuk mencoba demo langsung. | AI002 | Peningkatan minat coba (*Desire*) |
+| Knowledge | Belum memahami implementasi otomatisasi WA. | Memahami bahwa 80% masalah ada di integrasi WA. | AI002 | Pemetaan alur transaksi nyata |
+| Skill/kesiapan | Staf belum terbiasa dengan dashboard otomatis. | Customer siap mengajak staf melihat peragaan demo. | AI002 | Kesiapan mengikuti tahap *Action* |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| E01 | Cemas & ragu (AI001) | Sapaan umum (U001) | Menyampaikan 2 masalah utama & keraguan | A: Butuh validasi empati | Memberikan poin breakdown solusi |
+| E02 | Terbuka & butuh kejelasan (AI002) | Pertanyaan discovery & opsi platform (U002) | Mengungkap bisnis katering & minta 1 demo | K & S: Minta penyederhanaan opsi | Beralih dari link ke rekomendasi langsung |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| E02 | Pertanyaan detail alur transaksi (U002) | *"Nah, pertanyaan Mas tepat banget!... saya mau banget Mas!"* | Tinggi; customer merasa dipahami masalah operasionalnya | Menumbuhkan rasa percaya pada kompetensi konsultan |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Customer khawatir data resep & harga katering bocor jika memakai bot public. |
+| Respons awal dibanding uji ulang | Awal: Ragu umum. Uji Ulang: Menyediakan penjaminan enkripsi data pada sesi demo. |
+| Revisi rencana/dukungan | Menyiapkan 1 draf alur bot WA khusus katering tanpa istilah teknis rumit. |
+| Indikator perbaikan | Customer dan staf langsung mencoba input simulasi pesanan katering saat demo. |
+| Transfer dan keterbatasan | Efektif untuk UMKM katering/ritel; perlu penyesuaian untuk industri B2B manufaktur. |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | B) Kasus & U001-U002 | Tujuan *discovery* dan penjelasan solusi TI/AI berjalan presisi. |
+| Persepsi dan validasi profil/status | 4 | D) Evaluasi & AI002 | Mampu mengenali bahwa customer membutuhkan kesederhanaan pilihan. |
+| Pemilihan dan urutan repertoar | 4 | C) U001 -> U002 | Menggunakan pertanyaan *discovery* untuk membuka profil nyata customer. |
+| Eksekusi jelas, peduli dan konsisten | 4 | C) U002 | Penjelasan terstruktur rapi per poin masalah customer. |
+| Evaluasi dan adaptasi | 4 | D) Evaluasi E01-E02 | Merespons kebutuhan customer yang enggan membaca link rumit dengan tawaran demo. |
+| Refleksi dan lesson learned | 4 | D) Refleksi | Memahami bahwa bagi UMKM, penjelasan teknis harus diganti dengan bukti peragaan nyata. |
+
+**Nilai sesi:** (24 / 24) x 100 = **100**
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Menyediakan daftar link platform tidak selalu membantu customer; bagi customer yang merasa *gaptek*, daftar link justru menambah beban kognitif.
+- **Stimulus efektif/tidak efektif:** Pertanyaan *discovery* mengenai alur bisnis sangat efektif; mengarahkan ke link eksternal kurang efektif.
+- **Pertumbuhan PASK/ASK diri:** Belajar menjadi konsultan TI yang tidak hanya menjual teknologi, tetapi mendengarkan kesiapan operasional klien.
+- **Relasi:** Keinginan mendengarkan detail bisnis katering customer membina hubungan profesional yang saling percaya.
+- **Pelajaran untuk situasi berikutnya:** Selalu berikan 1 rekomendasi terbaik yang paling sederhana alih-alih memberikan banyak opsi tanpa pendampingan.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Penyiapan modul demo bot WA Katering | Ahmad Ibrahim Alhakim | H+1 Konsultasi | Laptop & Platform WA Bot | Demo berhasil diperagakan ke customer | Rencana Pelaksanaan |
+
+**Konfirmasi akhir:** Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 3a Lengkap.

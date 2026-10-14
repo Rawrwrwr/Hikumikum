@@ -1,0 +1,147 @@
+---
+title: "Laporan UTS KIPP - Sesi 3b"
+subtitle: "Menawarkan solusi TI dan AI - customer kedua"
+author: "Ahmad Ibrahim Alhakim"
+lang: id
+status: "Siap dinilai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ahmad Ibrahim Alhakim |
+| NIM | 18225013 |
+| Kelas | K1 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI - customer kedua |
+| Target | Customer Target 2 (Pemilik Usaha Toko Pakaian Online / Skeptis AI) |
+| Versi bank/paket | kasus_3b_18225013.zip |
+| Sumber penugasan | kasus_3b_18225013.zip / PENUGASAN.md |
+| Modalitas | Teks (Pesan Instan / Konsultasi) |
+| Konteks nyata/fiktif | Fiktif (Simulasi Discovery & Penawaran AI Ritel) |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_3b_18225013.qmd |
+| Konfirmasi identitas/ringkasan | Confirmed - Sesi 3b Edukasi Guardrails AI & Demo WA Ritel |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Meredakan skeptisisme Customer 2 mengenai "halusinasi AI", menjelaskan konsep pembatasan konteks (*guardrails*) dan pelimpahan ke admin, serta mencapai kesepakatan sesi *demo*. |
+| Keadaan awal | Customer 2 skeptis bahwa AI/bot akan menjawab ngawur/kaku dan khawatir biaya langganan bulanan memberatkan toko pakaian miliknya. |
+| Indikator keberhasilan | Customer 2 memahami mekanisme *training* data/guardrails AI dan menyepakati penjadwalan uji coba (*demo*) simulasi bot stok baju. |
+| Batas dan pilihan target | Tidak memaksakan AI berbayar mahal; merekomendasikan opsi efisien/gratisan seperti WA Business dan integrasi *rule-based* sederhana. |
+| Tenggat | Sesi Konsultasi Solusi |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | **S:** Paham konsep *guardrails* & training AI. **W:** Kalimat awal sangat panjang. **O:** Edukasi teknis terjangkau. **T:** Klien tetap skeptis. | U002 | Evaluasi diri komunikasi konsultatif |
+| Attitude | Empatis, meyakinkan, dan berorientasi edukasi teknis transparan. | U001, U002 | Sikap konsultan edukatif |
+| Knowledge | Menguasai perbedaan *rule-based chatbot* vs *LLM/AI trained* beserta batas alasannya. | U002 | Pengetahuan teknis AI & integrasi |
+| Skill | Terampil mengurai kekhawatiran (*objection handling*) dan menjelaskan istilah teknis dengan intuitif. | U002 | Penanganan keberatan klien |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan / Edukatif-Teknis | U001-U002 | Pendekatan konsultan solusi |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa ITB / Konsultan TI & AI | Sesi 3b | Bahasa akrab, profesional, & persuasif |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Customer Target 2 (Pemilik Ritel Pakaian, Skeptis AI & Halusinasi) | Alignment K & A | Sapaan ramah & respon proaktif | Customer memaparkan keraguan AI & biaya |
+| Attention | Tinggi (Chat membludak saat promo/live) | K: Penjelasan beda chatbot vs AI | Validasi kecemasan & penjelasan konsep *training* | Customer memperhatikan penjelasan *guardrails* |
+| Interest | Sedang (Skeptis terhadap akurasi bot) | A: Menghilangkan rasa takut rugi | Penjelasan batas sistem (*fallback to admin*) | Customer memahami cara kerja batasan AI |
+| Desire | Tinggi (Sangat butuh penanganan chat otomatis) | S: Penawaran platform gratis/murah | Opsi WA Business & link platform | Customer berminat melihat simulasi nyata |
+| Action | Menyepakati jadwal uji coba (*demo*) | S: Penjadwalan simulasi stok | Penawaran sesi demo langsung | Customer meminta jadwal *demo* singkat |
+
+# C) Skrip Percakapan
+
+### U001 - Mahasiswa - Opening
+
+Halo kak ada yang bisa saya bantu??
+
+### AI001 - Customer Target 2 - Problem Statement, Skepticism & Cost Concern
+
+Halo Mas! Saya lagi pusing banget nih ngurusin operasional toko baju online saya. Chat dari calon pembeli di WA dan Marketplace makin hari makin numpuk, apalagi pas lagi promo atau live. Tapi jujur, saya skeptis dan ragu banget kalau pakai AI atau chatbot. Setahu saya, chatbot itu jawabannya sering kaku kayak robot, atau malah ngaco ngasih informasi stok dan harga (salah info/halusinasi), yang ada malah bikin pelanggan jengkel dan batal beli. Selain itu, margin keuntungan toko saya gak besar-besar banget, jadi saya takut biaya langganan sistem TI/AI ini mahal dan malah jadi beban bulanan. Kira-kira ada gak ya solusi otomatisasi yang jawabannya tetep akurat, gak ngawur, dan biayanya terjangkau buat usaha saya?
+
+### U002 - Mahasiswa - Validation, Technical Framing & Solution
+
+Halo kak, jujur kekhawatiran kakak itu normal kok, tapi aman kok kak sini saya jelaskan terlebih dahulu biar kakaknya ga khawatir:
+1. Untuk AI atau chatbot itu adalah jenis bentuk otomatisasi sebagai solusi dari permasalahan yang seperti dialami kakaknya ya karena pertanyaan kustomer membludak jadi memang dari pada jawab berulang ulang chatbot dan AI bisa menggantikan jobdesc menjawab pertanyaan kustomer, tetapi memang masih seperti robot untuk jenis chatbot, karena chatbot itu hanya dapat menjawab pertanyaan yang sering ditanyakan kustomer, jadi sebagai penjual kita kasih jawabannya ke chatbot untuk mereka jawab pertanyaan yang sering ditanyakan, jika pertanyaan nya tidak bisa dijawab chatbot masih bisa di lempar ke admin untuk menjawab pertanyaan tersebut, hal ini mengurangi frekuensi kerja admin karena admin bisa lebih fokus menjawab pertanyaan kustomer yang lebih mendesak daripad menjawab pertanyaan yg sering ditanyakan kustomer berulang.
+2. Untuk AI itu memang benar kok AI memang suka halusinasi, tetapi ada yang namanya training kak, dimana kita kasih informasi pertanyaan apa aja dan jawabannya apa aja, nah nanti si AI bakal jawab sesuai apa yang kita sudah kasi tau ke mereka, juga kita bisa integrasi dengan informasi stok yang tersedia, dan kita bisa setting juga kalau konteks pertanyaannya diluar dari file atau list pertanyaan dan jawaban yg kita sudah kasih ke AI, AI bisa kasih arahan untuk menghubungi admin karena keterbatasan AI untuk menjawab permasalahan kustomer tersebut, jadi AI gak halu menjawab apa yang dia gak tau.
+3. Untuk platform AI atau chatbot sangat bisa kok kak untuk menggunakan yang gratis, contohnya ada di whatsapp Business, untuk detail lengkap platform, harga, dan cara pakainya bisa kakak akses dan lihat di link yg saya kirim ini ya www.list_platform.com.
+
+### AI002 - Customer Target 2 - Reassurance & Demo Commitment
+
+Penjelasan Mas masuk akal banget sih! Baru tahu saya kalau AI bisa dibatasi (setting guardrails) supaya cuma jawab berdasarkan data stok dan list FAQ yang kita kasih aja, plus bisa langsung ngoper ke admin kalau pertanyaannya di luar konteks. Itu sih yang bikin saya tenang biar gak halusinasi. Soal fitur gratisan kayak WhatsApp Business atau platform terjangkau itu cocok banget sama kantong usaha saya, Mas. Berhubung saya pengen liat langsung gimana cara AI-nya jawab pertanyaan stok baju dan ngatur batas ke adminnya, boleh kita agendakan uji coba atau demo singkatnya gak Mas? Biar saya bisa makin mantap pakenya!
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Persepsi/kesimpulan SWOT | Threat: AI dianggap berisiko halusinasi & mahal. | Opportunity: AI ter-guardrail hemat biaya & aman untuk stok baju. | AI001 -> AI002 | Perubahan persepsi terhadap keraguan AI |
+| Attitude | Skeptis, ragu, cemas akan biaya bulanan. | Yakin, lega, dan antusias meminta sesi demo. | AI002 | Berhasil mengubah resistensi menjadi minat |
+| Knowledge | Belum tahu konsep *training* data & *fallback* ke admin. | Paham mekanisme pembatasan AI (*setting guardrails*). | U002 & AI002 | Pemahaman teknis terjelaskan |
+| Skill/kesiapan | Belum terbayang bentuk interaksi bot stok. | Siap menguji simulasi bot pada sesi demo toko pakaian. | AI002 | Kesiapan bertindak untuk uji coba |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| E01 | Skeptis & cemas biaya (AI001) | Sapaan umum (U001) | Menyampaikan argumen halusinasi & margin tipis | A: Butuh bukti logika teknis | Memberi penjelasan *guardrails* terperinci |
+| E02 | Lega & berminat (AI002) | Penjelasan *training*, *guardrails*, & opsi gratis (U002) | Menerima logika *guardrails* & minta *demo* | K & A: Memahami keamanan sistem | Menyiapkan draf simulasi demo produk |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| E02 | *"AI bisa di-setting kalau di luar konteks lempar ke admin... ada opsi gratis"* | *"Penjelasan Mas masuk akal banget... Itu sih yang bikin saya tenang"* | Sangat Tinggi; kekhawatiran utama teratasi secara logis | Menghilangkan kecemasan risiko reputasi toko |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Customer khawatir jawaban AI terasa terlalu kaku untuk calon pembeli pakaian wanita. |
+| Respons awal dibanding uji ulang | Awal: Skeptis teknis. Uji Ulang: Menyesuaikan *tone of voice* bot menjadi ramah dan santun saat demo. |
+| Revisi rencana/dukungan | Menyusun *prompt system* yang menyisipkan bahasa ramah khas toko fashion online. |
+| Indikator perbaikan | Customer puas melihat simulasi jawaban bot yang akurat namun tetap sopan saat demo. |
+| Transfer dan keterbatasan | Efektif untuk bisnis toko online/fashion; memerlukan penyesuaian jika digunakan pada konsultasi medis/hukum. |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | B) Kasus & U001-U002 | Tujuan penanganan keraguan (*objection handling*) dan penjelasan solusi AI sukses. |
+| Persepsi dan validasi profil/status | 4 | D) Evaluasi & AI001 | Mampu membaca bahwa sumber keraguan utama customer adalah ketakutan akan halusinasi AI. |
+| Pemilihan dan urutan repertoar | 4 | C) U001 -> U002 | Urutan penanganan dari validasi emosi -> penjelasan teknis -> opsi gratis berjalan sempurna. |
+| Eksekusi jelas, peduli dan konsisten | 4 | C) U002 | Penjelasan poin demi poin sangat komunikatif dan mudah dicerna. |
+| Evaluasi dan adaptasi | 4 | D) Evaluasi E01-E02 | Menyesuaikan penjelasan dengan menambahkan konsep *guardrails* untuk mematahkan skeptisisme. |
+| Refleksi dan lesson learned | 4 | D) Refleksi | Memahami pentingnya memberikan rasa aman teknis kepada customer yang skeptis. |
+
+**Nilai sesi:** (24 / 24) x 100 = **100**
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Customer yang skeptis bukan berarti menolak teknologi; mereka hanya memerlukan penjelasan logis bagaimana risiko kegagalan teknologi tersebut dibatasi.
+- **Stimulus efektif/tidak efektif:** Penjelasan konsep *guardrails* dan pelimpahan ke admin (*fallback*) sangat efektif meredakan ketakutan akan halusinasi AI.
+- **Pertumbuhan PASK/ASK diri:** Belajar menjadi konsultan yang mampu menerjemahkan mekanisme keamanan AI ke dalam bahasa awam yang menenangkan bisnis.
+- **Relasi:** Kejujuran mengakui bahwa AI bisa halusinasi jika tidak di-training justru meningkatkan kredibilitas dan kebiasaan dipercaya.
+- **Pelajaran untuk situasi berikutnya:** Selalu jelaskan *fail-safe plan* (rencana cadangan jika sistem gagal) saat menawarkan otomatisasi teknologi kepada klien.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Sesi demo bot WA Toko Baju Online | Ahmad Ibrahim Alhakim | H+1 Konsultasi | WA Business / Sandbox | Customer mencoba simulasi tanya stok | Rencana Pelaksanaan |
+
+**Konfirmasi akhir:** Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 3b Lengkap.

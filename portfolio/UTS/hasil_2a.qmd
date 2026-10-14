@@ -1,0 +1,144 @@
+---
+title: "Laporan UTS KIPP - Sesi 2a"
+subtitle: "Persahabatan dan profesionalitas — Target 1"
+author: "Ahmad Ibrahim Alhakim"
+lang: id
+status: "Siap dinilai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ahmad Ibrahim Alhakim |
+| NIM | 18225013 |
+| Kelas | K1 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a: Persahabatan dan Profesionalitas (Target 1) |
+| Target | Target 1 (Rekan Kelompok - Tertekan Beban Kerja & Deadline Praktikum) |
+| Versi bank/paket | kasus_2a_18225013.zip |
+| Sumber penugasan | kasus_2a_18225013.zip / PENUGASAN.md |
+| Modalitas | Teks (Pesan Instan / Chat) |
+| Konteks nyata/fiktif | Fiktif (Simulasi Tugas Kelompok H-2 Deadline) |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_2a_18225013.qmd |
+| Konfirmasi identitas/ringkasan | Confirmed - Sesi 2a Negosiasi Pembagian Tugas Kelompok |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Mengklarifikasi alasan keterlambatan Target 1, menegosiasikan kembali pembagian tugas yang adil, serta membangun kesepakatan tenggat perantara tanpa merusak persahabatan. |
+| Keadaan awal | Target 1 belum mengirim bagian tugasnya sama sekali di H-2 deadline, merasa beban kerjanya tidak adil (analisis data vs teori), dan merasa tertekan oleh deadline praktikum lain. |
+| Indikator keberhasilan | Target 1 merasa dipahami, menyetujui pemangkasan skop kerja (fokus pada pembahasan), dan berkomitmen menyetorkan cicilan tugas pada H-1 sore. |
+| Batas dan pilihan target | Tidak mengambil alih 100% pekerjaan Target 1 agar akuntabilitas tetap ada, namun memberikan penyesuaian beban kerja yang realistis. |
+| Tenggat | H-2 Deadline (48 jam menuju pengumpulan) |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | **S:** Tegas dan mau membantu. **W:** Sempet memberi ultimatum 24 jam. **O:** Restrukturisasi beban tugas. **T:** Kelompok gagal kumpul tepat waktu. | U001 | Evaluasi diri komunikasi kelompok |
+| Attitude | Proaktif, asertif, menghargai komitmen dan keterbukaan. | U001, U002 | Berorientasi pada solusi tim |
+| Knowledge | Memahami keseluruhan struktur pengerjaan tugas dan waktu tersisa. | U002 | Paham pembagian peran |
+| Skill | Mampu melakukan reframing, mendengarkan aktif, dan redistribusi beban. | U002 | Mengelola negosiasi konflik |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan / Asertif-Empatis | U001-U002 | Kolaboratif-Praktis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa ITB / Ketua/Anggota Tim Asertif | Sesi 2a | Bahasa santai sebaya (kolokial) |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Target 1 (Merasa beban tidak adil & over capacity) | Alignment A & K | Sapaan terbuka & penawaran bantuan | Target mengutarakan alasan sebenarnya |
+| Attention | Rendah/Menghindar (Takut disalahkan) | A: Ciptakan rasa aman | Pertanyaan eksploratif tanpa tuduhan | Target merespons & menceritakan kendala |
+| Interest | Sedang (Ingin tugas selesai tapi tertekan) | K: Pemisahan skop pembahasan | Validasi keluhan beban analisis | Target setuju opsi redistribusi |
+| Desire | Tinggi (Ingin beban kerja berkurang & realistis) | S: Penentuan prioritas kerja | Tawaran pengambilalihan bagian berat | Target merasa lega dan mau komit |
+| Action | Menyepakati cicilan H-1 sore | S: Pelaporan berjenjang | Penetapan tenggat perantara (*interim*) | Target mengonfirmasi *deal* & cicilan |
+
+# C) Skrip Percakapan
+
+### U001 - Mahasiswa - Opening & Exploration
+
+Halo, coy ini lu udah kelar bagian lu belom? soalnya gw liat lu belom masukin samsek, lagi lu kerjain apa gmn? Deadline 2 hari lagi soalnya, lu ada masalah kah? sibuk atau gmn biar gw bantu, klo mnrt lu pembagiannya ga adil ngomong aja weh, gw bisa bantu bantu kok, klo sibuk juga bilang aja kita bisa bantu tapi ga semua kita kerjain juga, lu juga harus kontribusi juga, pokoknya ngomong aja, klo gada jawaban dari chat gw ini dalam waktu 24 jam berarti lu emng gamau kontribusi ya, klo gt sih gpp tapi sorry nih gw dah nawarin bantuan juga at least bilang lah mau dibantu apa kaga oke?
+
+### AI001 - Target 1 - Response & Disclosure
+
+Sori baru bales, bro. Jujur aja, gw bukannya ga mau kontribusi atau sengaja ngilang. Tapi pas gw liat bagian gw, beban kerjanya jauh lebih berat ketimbang yang lain. Di bagian gw harus nyusun analisis data dan olah tabel dari awal, sedangkan bagian lu sama temen-temen kan mayoritas cuma ngerangkum teori dan tinjauan pustaka. Selain itu minggu ini gw lagi keteteran banget sama deadline praktikum lain. Gw sebenernya mau ngomong dari kemarin, tapi bingung karena kemarin pembagiannya kayak udah di-fix-in gitu aja di grup. Gw tetep mau ngerjain dan komit kelarin kok, tapi kalo pembagiannya tetep full kayak gini tanpa dibantu, jujur gw ga bakal keburu dapet deadline 2 hari lagi.
+
+### U002 - Mahasiswa - Validation, Adjustment & Agreement
+
+Oke bang, aman aja kok gw bisa cover bagian bagian yg lu sekiranya gabisa, lu kerjain bagian pembahasan nya aja, sisanya paling gw yg kerjain atau gw kasi ke yg lain yg masi free, aman aja kok, tapi beneran dikerjain ya at least dicicil soalnya biar gw ada kepastian bahwa lu ngerjain tanggung jawab lu juga, klo gitu masih ada yg perlu diomongin gak? yg lu gak srek, bilang aja, yang penting jangan sampe ngerjain nya terlalu deket deadline bgt, ni masih sisa 2 hari juga harusnya masih bisa dikerjain juga kok, yeyeyeyey
+
+### AI002 - Target 1 - Final Agreement & Commitment
+
+Nah, gokil! Tengks banget ya bro udah ngertiin kondisi gw. Kalau dibantu pangkas bagian olah data/pustakanya dan gw fokus di pembahasan aja, ini jauh lebih realistis sih buat gw kelarin. Deal ya, gw bakal pegang penuh bagian pembahasan. Nanti besok sore (H-1 deadline) gw bakal setor draf cicilan pertamanya ke lu di grup/PC biar lu bisa cek dan ga was-was. Udah aman kok, gw udah ga ada ganjelan lagi. Sori juga ya tadi sempet rada defensif. Tengks berat udah nawarin bantuan dan nge-adjust pembagiannya!
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Persepsi/kesimpulan SWOT | Threat: Target 1 diperkirakan lepas tanggung jawab. | Opportunity: Redistribusi beban kerja menghasilkan komitmen nyata. | AI001 -> AI002 | Perubahan persepsi terhadap Target 1 |
+| Attitude | Target defensif & cemas; Komunikator sempat mengancam. | Kedua pihak saling percaya & kooperatif. | U002 & AI002 | Hubungan tim kembali harmonis |
+| Knowledge | Komunikator belum tahu beban analisis data terlalu berat bagi Target 1. | Komunikator memahami kendala spesifik & waktu Target 1. | AI001 | Keterbukaan informasi kendala |
+| Skill/kesiapan | Keterampilan negosiasi belum terarah pada penetapan *interim deadline*. | Terampil membagi tugas (*scoping*) & menetapkan *interim deadline*. | U002 | Kesepakatan jadwal cicilan |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| E01 | Tertekan & ragu terbuka (AI001) | Sapaan bertanya & opsi bantuan (U001) | Mengungkapkan rasa ketidakadilan pembagian | A: Merasa didengar & diberi ruang | Memvalidasi keluhan tanpa menyalahkan |
+| E02 | Kooperatif & komit (AI002) | Reduksi skop ke 'pembahasan' & tawar diskusi (U002) | Menerima *deal*, janji cicil H-1 sore | S & K: Komitmen pengerjaan terukur | Menetapkan tenggat cicil konkret |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| E02 | *"Gw bisa cover bagian yg lu sekiranya gabisa, lu kerjain bagian pembahasan nya aja"* | *"Nah, gokil! Tengks banget ya bro udah ngertiin kondisi gw"* | Sangat Tinggi; Target merasa didukung dan tidak dimanfaatkan | Meningkatkan *Attitude* komitmen dan tanggung jawab target |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Target 1 mengalami hambatan saat menyusun draf pembahasan di H-1. |
+| Respons awal dibanding uji ulang | Awal: Diam dan menunda. Uji Ulang: Proaktif bertanya di grup karena sudah merasa aman. |
+| Revisi rencana/dukungan | Menyediakan poin-poin outline pembahasan untuk mempercepat pengerjaan Target 1. |
+| Indikator perbaikan | Draf cicilan masuk tepat waktu pada H-1 sore. |
+| Transfer dan keterbatasan | Efektif untuk dinamika teman sebaya; perlu penyesuaian jika menghadapi hubungan hirarkis. |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | B) Kasus & U001-U002 | Tujuan negosiasi dan penyelesaian tugas tercapai presisi. |
+| Persepsi dan validasi profil/status | 4 | D) Evaluasi & AI001 | Memvalidasi alasan keterlambatan tanpa menghakimi. |
+| Pemilihan dan urutan repertoar | 4 | C) U001 -> U002 | Bertransisi dari pertanyaan umum ke tawaran *scoping* konkret. |
+| Eksekusi jelas, peduli dan konsisten | 4 | C) U002 | Menggunakan bahasa akrab, hangat, namun tetap memiliki ketegasan batas (*accountability*). |
+| Evaluasi dan adaptasi | 4 | D) Evaluasi E01-E02 | Menyesuaikan strategi komunikasi berdasarkan masukan beban kerja target. |
+| Refleksi dan lesson learned | 4 | D) Refleksi | Memahami pentingnya *psychological safety* dalam kerja kelompok. |
+
+**Nilai sesi:** (24 / 24) x 100 = **100**
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Anggota yang tidak mengumpulkan tugas tepat waktu tidak selalu malas; sering kali karena pembagian tugas awal yang tidak seimbang atau rasa cemas menyampaikan kendala.
+- **Stimulus efektif/tidak efektif:** Ultimatum waktu ("24 jam") kurang efektif dan memicu defensif; tawaran bantuan konkret dan re-scoping tugas sangat efektif.
+- **Pertumbuhan PASK/ASK diri:** Belajar menjadi pemimpin kelompok yang fleksibel dalam pembagian tugas namun tetap tegas pada tenggat perantara.
+- **Relasi:** Sikap empati dan kepedulian terbukti menyelamatkan hubungan persahabatan sekaligus mengamankan profesionalitas tugas.
+- **Pelajaran untuk situasi berikutnya:** Lakukan *check-in* pembagian tugas di awal pengerjaan untuk memastikan tidak ada anggota yang merasa keberatan secara diam-diam.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Penagihan cicilan draf pembahasan | Ahmad Ibrahim Alhakim | H-1 Sore | Chat Grup / PC | Draf pembahasan diterima di chat | Rencana Pelaksanaan |
+
+**Konfirmasi akhir:** Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 2a Lengkap.

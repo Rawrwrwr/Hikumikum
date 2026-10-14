@@ -1,0 +1,144 @@
+---
+title: "Laporan UTS KIPP - Sesi 2b"
+subtitle: "Persahabatan dan profesionalitas - target kedua"
+author: "Ahmad Ibrahim Alhakim"
+lang: id
+status: "Siap dinilai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ahmad Ibrahim Alhakim |
+| NIM | 18225013 |
+| Kelas | K1 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b: Persahabatan dan profesionalitas - target kedua |
+| Target | Target 2 (Rekan Kelompok - Tertekan, Segan, Overwhelmed Olah Data) |
+| Versi bank/paket | kasus_2b_18225013.zip |
+| Sumber penugasan | kasus_2b_18225013.zip / PENUGASAN.md |
+| Modalitas | Teks (Pesan Instan / Chat) |
+| Konteks nyata/fiktif | Fiktif (Simulasi Tugas Kelompok H-2 Deadline) |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_2b_18225013.qmd |
+| Konfirmasi identitas/ringkasan | Confirmed - Sesi 2b Negosiasi & Bantuan Konkret Target Kedua |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Membantu Target 2 mengatasi kecemasan (*overwhelmed*), merealokasi bagian tugas olah data mentah, serta membangun kesepakatan cicilan kerja tanpa merusak persahabatan. |
+| Keadaan awal | Target 2 segan membuka obrolan di H-2 deadline karena merasa tertekan oleh kerumitan olah data mentah dan jadwal praktikum yang padat. |
+| Indikator keberhasilan | Target 2 merasa aman untuk berterus terang, menyepakati pengerjaan fokus analisis/pembahasan, dan berkomitmen mulai mencicil pekerjaan serta melaporkan progres besok sore. |
+| Batas dan pilihan target | Mengambil alih bagian pembersihan/olah data mentah yang menjadi titik kebuntuan, namun tetap memosisikan Target 2 bertanggung jawab atas interpretasi pembahasan. |
+| Tenggat | H-2 Deadline (48 jam menuju pengumpulan) |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | **S:** Perhatian & mau membantu. **W:** Sempet mendesak di awal. **O:** Redistribusi tugas berbasis kesulitan. **T:** Target makin pasif/menghindar. | U001 | Evaluasi diri komunikasi kelompok |
+| Attitude | Inklusif, siap pasang badan (*supportive*), dan menekankan penyelesaian bertahap. | U001, U002 | Berorientasi pada kenyamanan & hasil tim |
+| Knowledge | Memahami titik kendala teknis (olah data mentah) yang dialami Target 2. | U002 | Paham hambatan spesifik target |
+| Skill | Terampil menawarkan bantuan spesifik tanpa membuat target merasa tidak mampu. | U002 | Komunikasi pendampingan (*coaching*) |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan / Supportif-Solutif | U001-U002 | Kolaboratif-Praktis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa ITB / Rekan Tim Solutif | Sesi 2b | Bahasa akrab sebaya (kolokial) |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Target 2 (Memendam rasa cemas & segan berbicara) | Alignment A & S | Dorongan sapaan hangat & tawar bantuan | Target terbuka menyampaikan penyebab pusing |
+| Attention | Rendah (Menghindar karena takut/pusing) | A: Ciptakan suasana aman & ramah | Kalimat sapaan santai & pemicu respons | Target merespons & mengaku pusing |
+| Interest | Sedang (Ingin tugas selesai tapi tertekan) | K: Identifikasi modul yang memberatkan | Penawaran pengambilalihan bagian sulit | Target menyebutkan olah data mentah |
+| Desire | Tinggi (Sangat membutuhkan bantuan konkret) | S: Pembagian ulang skop kerja | Tawaran pengerjaan olah data oleh komunikator | Target merasa lega dan mau membagi tugas |
+| Action | Komitmen mencicil malam ini & lapor besok | S: Pembiasaan mencicil kerja | Ajakan mencicil langsung | Target menyepakati laporan cicilan besok sore |
+
+# C) Skrip Percakapan
+
+### U001 - Mahasiswa - Opening & Prompting
+
+Oiii, ini deadline sisa 2 hari lu belom ngerjain bagian lu bre, jwaba dong, klo ada masalah ato apa bilang aja, ntar gw bantu kok, ini soalnya DL 2 hari ini bagian lu kyknya juga ga mungkin dikerjain H-jam, bales pls biar gw bisa bantu klo ada masalah
+
+### AI001 - Target 2 - Disclosure & Explanation
+
+Halo, sori baru sempet bales. Jujur buka chat aja gw udah pusing duluan. Sebenernya gw bingung mau mulai dari mana karena dari awal gw ngersat pembagian tugasnya kurang seimbang. Bagian gw dapet pengolahan data mentah sama analisis dari awal yang rumit banget, beda sama yang lain yang dapet bagian tinjauan pustaka. Ditambah minggu ini jadwal praktikum sama laprak gw lagi padat-padatnya. Gw bukannya sengaja mau ngebendung atau gak mau ngerjain, tapi kalau harus kelarin bagian tersulit ini sendirian dalam 2 hari tersisa, jujur gw gak bakal sanggup. Kalau emang lu beneran mau bantu re-structure pembagian tugasnya biar lebih masuk akal, gw bakal apresiasi banget.
+
+### U002 - Mahasiswa - Support, Re-scoping & Encouragement
+
+Gas aja gw mah, gw bantu dah bagian mana yg lu sekiranya ga bisa kerjain, kasi ke gw, klo emng susah dan lu gapaham tanya aja di grup atau gw jg boleh, gw bakal jawab kok, aman aja, kasi taua aja bagian mana yg lu gabisa ntar gw bantu kerjain, btw mulai cicil dari skrg yak biar ga keteteran bsk
+
+### AI002 - Target 2 - Relief & Agreement
+
+Seriusan, bro? Lega banget denger lu mau ngover bagian olah data mentahnya. Kalau gitu, bagian pembersihan dan olah data mentahnya gw lempar ke lu ya, terus gw bakal fokus ngerjain bagian interpretasi analisis dan pembahasannya. Sip, gw langsung mulai cicil kerjain malam ini biar gak keteteran. Besok sore gw kabarin progres cicilannya di grup ya. Makasih banyak banget udah responsif, mau ngebantuan, dan ngertiin kondisi gw, bro!
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Persepsi/kesimpulan SWOT | Threat: Target 2 diperkirakan pasif dan lepas tangan. | Opportunity: Bantuan pada olah data mencairkan kebuntuan. | AI001 -> AI002 | Perubahan persepsi terhadap Target 2 |
+| Attitude | Target cemas, tertutup, dan merasa segan. | Target merasa relieved, bersyukur, dan kooperatif. | AI001 & AI002 | Peningkatan kepercayaan diri target |
+| Knowledge | Komunikator belum tahu Target 2 kesulitan di olah data mentah. | Komunikator paham kendala spesifik & membagi alur kerja. | U002 | Pemetaan titik kebuntuan teknis |
+| Skill/kesiapan | Keterampilan Target 2 terhambat oleh volume olah data. | Target 2 siap mengeksekusi analisis pembahasan. | AI002 | Kesiapan bertindak setelah redistribusi |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| E01 | Overwhelmed & segan (AI001) | Tawar bantuan sejak awal (U001) | Terbuka tentang pusingnya olah data | A: Rasa aman untuk jujur | Menanggapi dengan dukungan penuh |
+| E02 | Kooperatif & lega (AI002) | Siap cover bagian susah & ajak cicil (U002) | Setuju lempar data mentah, janji cicil | S & A: Siap mengeksekusi pembahasan | Menetapkan laporan progres besok sore |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| E02 | *"Gw bantu dah bagian mana yg lu sekiranya ga bisa kerjain... mulai cicil dari skrg yak"* | *"Seriusan, bro? Lega banget denger lu mau ngover... Makasih banyak"* | Sangat Tinggi; Target merasa didampingi dan tidak dihakimi | Menghilangkan *action paralysis* pada Target 2 |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Target 2 bingung menafsirkan grafik hasil olah data di H-1. |
+| Respons awal dibanding uji ulang | Awal: Diam dan memendam. Uji Ulang: Langsung bertanya di grup karena komunikator sudah membuka pintu konsultasi. |
+| Revisi rencana/dukungan | Memberikan penjelasan singkat 2 baris mengenai cara membaca grafik hasil olah data. |
+| Indikator perbaikan | Target 2 berhasil menyelesaikan draf pembahasan sesuai jadwal sore H-1. |
+| Transfer dan keterbatasan | Sangat cocok untuk tipe kawan yang pasif/segan; kurang relevan untuk tipe dominan. |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | B) Kasus & U001-U002 | Tujuan meredakan cemas dan membagi tugas tercapai presisi. |
+| Persepsi dan validasi profil/status | 4 | D) Evaluasi & AI001 | Berhasil mendiagnosis bahwa kepasifan target bersumber dari rasa *overwhelmed*. |
+| Pemilihan dan urutan repertoar | 4 | C) U001 -> U002 | Urutan stimulus efektif mencairkan kecemasan lawan bicara. |
+| Eksekusi jelas, peduli dan konsisten | 4 | C) U002 | Eksekusi kalimat hangat, suportif, dan memberi solusi konkret. |
+| Evaluasi dan adaptasi | 4 | D) Evaluasi E01-E02 | Beradaptasi cepat dengan menawarkan diri sebagai *safety net* pekerjaan. |
+| Refleksi dan lesson learned | 4 | D) Refleksi | Memahami bahwa tiap individu memiliki ambang batas rasa segan yang berbeda. |
+
+**Nilai sesi:** (24 / 24) x 100 = **100**
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Lawan bicara yang tidak merespons pesan tidak selalu berniat mengabaikan; sering kali mereka merasa segan dan bingung cara menyampaikan bahwa mereka tidak sanggup.
+- **Stimulus efektif/tidak efektif:** Penawaran bantuan yang tulus dan keterbukaan menjawab pertanyaan sangat efektif mematahkan rasa segan lawan bicara.
+- **Pertumbuhan PASK/ASK diri:** Belajar peka terhadap kondisi emosional tim dan sigap mengambil alih titik kebuntuan (*bottleneck*) pengerjaan.
+- **Relasi:** Sikap suportif melahirkan rasa aman yang membuat komunikasi kelompok mengalir tanpa rasa takut.
+- **Pelajaran untuk situasi berikutnya:** Selalu berikan kepastian bahwa "bertanya atau minta bantuan bukanlah tanda kelemahan".
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Pembersihan data mentah & lapor progres | Ahmad Ibrahim Alhakim | H-1 Pagi | Python/Excel | Hasil olah data dikirim ke Target 2 | Rencana Pelaksanaan |
+
+**Konfirmasi akhir:** Confirmed by Ahmad Ibrahim Alhakim (NIM: 18225013, Kelas: K1) - Laporan Sesi 2b Lengkap.
